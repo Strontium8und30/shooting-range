@@ -1,0 +1,21 @@
+<model>
+    <texture file="gfx\schild_access.jpg" id="7"/>
+    <c_obj id="108" name="Object_15" >
+        <s_obj id="109" name="Dreieck" texture="7">
+            <vertex>0.20000553;0.19999427;5.722046E-6</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>-0.19999361;0.20000565;-1.7166138E-5</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-0.20000553;-0.19999433;-6.198883E-6</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+        </s_obj>
+        <s_obj id="110" name="Dreieck" texture="7">
+            <vertex>-0.20000553;-0.19999433;-6.198883E-6</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.19999456;-0.20000571;1.66893E-5</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.20000553;0.19999427;5.722046E-6</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+    </c_obj>
+</model>

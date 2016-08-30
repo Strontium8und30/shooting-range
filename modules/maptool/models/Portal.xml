@@ -1,0 +1,101 @@
+<model>
+    <texture file="gfx/floor003.jpg" id="13"/>
+    <c_obj id="1166" visible="false" hard="false" shootable="true" name="Portal" >
+        <s_obj id="1237" visible="false" name="Dreieck" texture="13">
+            <vertex>0.5;-0.5;0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.5;-0.5;-0.5</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.5;0.5;-0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1238" visible="false" name="Dreieck" texture="13">
+            <vertex>0.5;-0.5;0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.5;0.5;0.5</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.5;0.5;-0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1277" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.5;-0.5;-0.5</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>-0.5;0.5;-0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1278" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.5;0.5;0.5</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-0.5;0.5;-0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1283" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;-0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.5;-0.5;-0.5</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.5;-0.5;0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1284" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;-0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.5;-0.5;0.5</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.5;-0.5;0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1285" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;0.5;-0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.5;0.5;-0.5</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.5;0.5;0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1291" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;0.5;-0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.5;0.5;0.5</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.5;0.5;0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1292" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;-0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.5;-0.5;-0.5</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.5;0.5;-0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1293" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;-0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.5;0.5;-0.5</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.5;0.5;-0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1294" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.5;-0.5;0.5</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.5;0.5;0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj id="1295" visible="false" name="Dreieck" texture="13">
+            <vertex>-0.5;-0.5;0.5</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.5;0.5;0.5</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.5;0.5;0.5</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+    </c_obj>
+</model>

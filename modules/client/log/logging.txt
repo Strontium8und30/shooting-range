@@ -1,0 +1,14 @@
+18:01:2016 23:20:34:020 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 23:20:35:020 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+18:01:2016 23:20:44:020 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 23:21:16:021 [ERROR]   <client.ClientModel> Der Server ist nicht mehr erreichbar.
+18:01:2016 23:21:25:021 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 23:21:37:021 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 23:22:03:022 [ERROR]   <client.ClientModel> Kein entsprechender Datentyp beim senden (Client)2
+18:01:2016 23:22:20:022 [INFO]    <client.ClientModel> Versuche Verbindung zu 10.78.21.36
+18:01:2016 23:22:30:022 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 23:22:32:022 [ERROR]   <client.ClientModel> Kein entsprechender Datentyp beim senden (Client)5
+18:01:2016 23:22:33:022 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 23:22:36:022 [ERROR]   <client.ClientModel> Kein entsprechender Datentyp beim senden (Client)5
+18:01:2016 23:23:43:023 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 23:23:44:023 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.

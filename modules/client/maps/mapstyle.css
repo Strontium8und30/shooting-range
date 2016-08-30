@@ -1,0 +1,25 @@
+map {
+    display:block;
+}
+
+c_obj {
+    display:block;
+    border:1px solid red;
+    padding:1px;
+}
+
+s_obj {
+    display:block;
+    margin:5px;
+    border:1px dotted green;
+}	
+
+vertex {
+	background-color:#AAFFAA;
+}
+
+tex_coord {
+	padding-left:15px;
+	padding-right:100px;
+	background-color:#FFFFAA;
+}

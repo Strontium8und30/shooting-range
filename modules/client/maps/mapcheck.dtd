@@ -1,0 +1,6 @@
+<!ELEMENT map (texture+, c_obj+)>
+	<!ELEMENT texture (#PCDATA)>
+	<!ELEMENT c_obj (c_obj, s_obj)>
+		<!ELEMENT s_obj (vertex+, tex_coord+)>
+			<!ELEMENT vertex (#PCDATA)>
+			<!ELEMENT tex_coord (#PCDATA)>

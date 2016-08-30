@@ -1,0 +1,113 @@
+<model>
+	<texture file="gfx/floor003.jpg" id="0"/>
+	<c_obj name="Box" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+	    <c_obj name="Rechts" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+	        <s_obj texture="0">
+	            <vertex>0.5;-0.5;0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>0.5;-0.5;-0.5</vertex>
+	            <tex_coord>1.0;0.0</tex_coord>
+	            <vertex>0.5;0.5;-0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	        <s_obj texture="0">
+	            <vertex>0.5;-0.5;0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>0.5;0.5;0.5</vertex>
+	            <tex_coord>0.0;1.0</tex_coord>
+	            <vertex>0.5;0.5;-0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	    </c_obj>
+	    <c_obj name="Links" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>-0.5;-0.5;-0.5</vertex>
+	            <tex_coord>1.0;0.0</tex_coord>
+	            <vertex>-0.5;0.5;-0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>-0.5;0.5;0.5</vertex>
+	            <tex_coord>0.0;1.0</tex_coord>
+	            <vertex>-0.5;0.5;-0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	    </c_obj>
+	    <c_obj name="Unten" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;-0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>0.5;-0.5;-0.5</vertex>
+	            <tex_coord>1.0;0.0</tex_coord>
+	            <vertex>0.5;-0.5;0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;-0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>-0.5;-0.5;0.5</vertex>
+	            <tex_coord>0.0;1.0</tex_coord>
+	            <vertex>0.5;-0.5;0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	    </c_obj>
+	    <c_obj name="Oben" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+	        <s_obj texture="0">
+	            <vertex>-0.5;0.5;-0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>0.5;0.5;-0.5</vertex>
+	            <tex_coord>1.0;0.0</tex_coord>
+	            <vertex>0.5;0.5;0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	        <s_obj texture="0">
+	            <vertex>-0.5;0.5;-0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>-0.5;0.5;0.5</vertex>
+	            <tex_coord>0.0;1.0</tex_coord>
+	            <vertex>0.5;0.5;0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	    </c_obj>
+	    <c_obj name="Hinten" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;-0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>0.5;-0.5;-0.5</vertex>
+	            <tex_coord>1.0;0.0</tex_coord>
+	            <vertex>0.5;0.5;-0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;-0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>-0.5;0.5;-0.5</vertex>
+	            <tex_coord>0.0;1.0</tex_coord>
+	            <vertex>0.5;0.5;-0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	    </c_obj>
+	    <c_obj name="Vorne" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>0.5;-0.5;0.5</vertex>
+	            <tex_coord>1.0;0.0</tex_coord>
+	            <vertex>0.5;0.5;0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	        <s_obj texture="0">
+	            <vertex>-0.5;-0.5;0.5</vertex>
+	            <tex_coord>0.0;0.0</tex_coord>
+	            <vertex>-0.5;0.5;0.5</vertex>
+	            <tex_coord>0.0;1.0</tex_coord>
+	            <vertex>0.5;0.5;0.5</vertex>
+	            <tex_coord>1.0;1.0</tex_coord>
+	        </s_obj>
+	    </c_obj>
+	</c_obj>
+</model>

@@ -1,0 +1,102 @@
+<model>
+    <texture file="GFX\kiste001.jpg" id="3"/>
+    <texture file="GFX\Target.jpg" id="9"/>
+    <c_obj name="Object_17" visible="true" hard="true" shootable="false" destroyable="true" mass="0" power="0">
+        <s_obj texture="3">
+            <vertex>-0.2999575;-0.29999146;0.30005097</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.30004263;-0.3000085;-0.29994905</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>-0.30004263;0.29999152;-0.2999661</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>-0.2999575;-0.29999146;0.30005097</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.30004263;0.29999152;-0.2999661</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>-0.2999575;0.3000085;0.30003393</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>-0.30004263;-0.3000085;-0.29994905</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.29995847;-0.3000085;-0.30003405</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.29995847;0.29999152;-0.3000511</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>-0.30004263;-0.3000085;-0.29994905</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.30004263;0.29999152;-0.2999661</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.29995847;0.29999152;-0.3000511</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="9">
+            <vertex>0.3000424;-0.29999146;0.29996598</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.29995847;-0.3000085;-0.30003405</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.29995847;0.29999152;-0.3000511</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="9">
+            <vertex>0.3000424;-0.29999146;0.29996598</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.29995847;0.29999152;-0.3000511</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>0.3000424;0.3000085;0.29994893</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>-0.2999575;-0.29999146;0.30005097</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.3000424;-0.29999146;0.29996598</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.3000424;0.3000085;0.29994893</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>-0.2999575;-0.29999146;0.30005097</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.2999575;0.3000085;0.30003393</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.3000424;0.3000085;0.29994893</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>-0.2999575;-0.29999146;0.30005097</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.30004263;-0.3000085;-0.29994905</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.29995847;-0.3000085;-0.30003405</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>0.29995847;-0.3000085;-0.30003405</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>0.3000424;-0.29999146;0.29996598</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-0.2999575;-0.29999146;0.30005097</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>-0.2999575;0.3000085;0.30003393</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.30004263;0.29999152;-0.2999661</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.29995847;0.29999152;-0.3000511</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj texture="3">
+            <vertex>0.29995847;0.29999152;-0.3000511</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>0.3000424;0.3000085;0.29994893</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-0.2999575;0.3000085;0.30003393</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+        </s_obj>
+    </c_obj>
+</model>

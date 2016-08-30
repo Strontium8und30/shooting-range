@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . ./ ./lib/miglayout-3.7.jar
+Main-Class: client.TestClientTCP
+

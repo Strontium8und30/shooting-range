@@ -1,0 +1,22 @@
+
+	<target name="main-compile">
+	<echo message="${main.basedir}/modules/"/>
+		<javac srcdir="src" destdir="build">		
+			<classpath>
+				<path>
+					<fileset dir="../../lib" includes="*.jar"/>
+					<dirset dir="${main.basedir}/modules/">
+						<include name="**/${build.dir}/"/>
+					</dirset>										
+				</path>
+			</classpath>
+		</javac>
+		<!--<buildnumber file="version.txt"/>-->
+	</target>
+	
+	<target name="clean-all">
+		<!-- Remove the build directory including classes, packages, javadoc -->
+        <delete dir="${build.dir}"
+                includeEmptyDirs="true"
+                verbose="false"/>
+	</target>

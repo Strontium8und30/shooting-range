@@ -1,0 +1,1513 @@
+[Info]    <maptool.Maptool> laa
+[Info]    <maptool.export.DAO> Das Objekt "Object_0" wurde Exportiert
+[Info]    <maptool.export.DAO> Die Map wurde Exportiert.
+[Info]    <maptool.export.DAO> Die Map wurde Exportiert.
+[Info]    <maptool.export.DAO> Die Map wurde Exportiert.
+[Error]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+[Info]    <maptool.export.DAO> Die Map wurde Exportiert.
+[Error]   <maptool.chapter.MapLoader> loadMap() Datei wurde nicht gefunden
+[Error]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+[Error]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+[Error]   <maptool.gui.mainFrame.MainMenu> Fehler beim importieren eines Kontainers
+[Error]   <maptool.gui.mainFrame.MainMenu> Fehler beim importieren eines Kontainers
+[Error]   <maptool.gui.mainFrame.MainMenu> Fehler beim importieren eines Kontainers
+[Error]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+[Error]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Warning] <client.gui.GLPanel> Shader not Suported
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+[Error]   <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+java.text.SimpleDateFormat@7147a660ERROR <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+30:09:2009ERROR <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+30:09:2009 13:50:0026ERROR <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+30:09:2009 13:27:12:0027ERROR <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+30:09:2009 13:29:02:029 ERROR <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+02:10:2009 15:23:13:023 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+02:10:2009 16:21:13:021 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+04:10:2009 20:48:24:048 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+04:10:2009 20:49:11:049 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+04:10:2009 20:49:12:049 [INFO] <client.gui.GameFrame> Get Focus --> Threads wieder starten
+04:10:2009 20:49:12:049 [INFO] <client.gui.GLPanel> GL Init
+04:10:2009 20:49:12:049 [WARNING] <client.gui.GLPanel> Shader not Suported
+04:10:2009 20:49:12:049 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 11:50:33:050 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 13:39:12:039 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:10:37:010 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:11:00:011 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:12:32:012 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:13:17:013 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:14:30:014 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:25:11:025 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:25:25:025 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:28:59:028 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:29:10:029 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:30:06:030 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:31:49:031 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:32:53:032 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:32:54:032 [WARNING] <utilities.gl.TextureHelper> fetch
+05:10:2009 14:32:54:032 [WARNING] <utilities.gl.TextureHelper> fetch
+05:10:2009 14:32:55:032 [WARNING] <utilities.gl.TextureHelper> fetch
+05:10:2009 14:32:56:032 [WARNING] <utilities.gl.TextureHelper> fetch
+05:10:2009 14:34:07:034 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:34:13:034 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:34:41:034 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:34:42:034 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 14:34:52:034 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:34:53:034 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 14:35:38:035 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:35:42:035 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 14:35:42:035 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 14:36:18:036 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:41:14:041 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:41:14:041 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 14:41:14:041 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 14:42:46:042 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:42:46:042 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 14:42:46:042 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 14:47:56:047 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:47:56:047 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 14:47:56:047 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 14:50:19:050 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:50:19:050 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 14:50:19:050 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 14:51:34:051 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 14:51:34:051 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 14:51:34:051 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:00:29:000 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 15:00:29:000 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:00:29:000 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:01:32:001 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:01:33:001 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:01:33:001 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:01:33:001 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 15:01:34:001 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:01:34:001 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:01:34:001 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:01:34:001 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:01:34:001 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 15:01:35:001 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:01:35:001 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:01:35:001 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:01:35:001 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:01:35:001 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 15:01:36:001 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:01:36:001 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:01:38:001 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:01:38:001 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:01:38:001 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 15:01:38:001 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:01:38:001 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:01:38:001 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:01:38:001 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:01:39:001 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:01:39:001 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:01:39:001 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 15:01:39:001 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:02:51:002 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 15:02:51:002 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:02:51:002 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:03:03:003 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:03:04:003 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:03:04:003 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:03:04:003 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 15:03:04:003 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:04:00:004 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 15:04:00:004 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:04:01:004 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:04:08:004 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:04:09:004 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:04:09:004 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:04:09:004 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 15:04:10:004 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:04:14:004 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:04:14:004 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:04:14:004 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:04:14:004 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 15:04:15:004 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:04:22:004 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:04:23:004 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:04:23:004 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:04:23:004 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 15:04:23:004 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:04:25:004 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 15:04:25:004 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:04:25:004 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:04:25:004 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 15:04:26:004 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:11:17:011 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 15:11:17:011 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:11:17:011 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:15:17:015 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 15:15:17:015 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:15:17:015 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:17:11:017 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 15:17:11:017 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:17:11:017 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:21:11:021 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+05:10:2009 15:21:11:021 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:21:11:021 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:22:50:022 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:22:50:022 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:24:10:024 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:24:10:024 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:25:16:025 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:25:16:025 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:26:17:026 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:26:17:026 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:27:12:027 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:27:12:027 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:27:20:027 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:27:21:027 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:32:12:032 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:32:12:032 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:36:29:036 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:36:29:036 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:37:35:037 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:37:44:037 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:38:26:038 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:38:27:038 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:41:14:041 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:41:14:041 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:43:17:043 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:43:29:043 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:44:10:044 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:44:10:044 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:45:10:045 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:45:11:045 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 15:45:11:045 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 15:45:11:045 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 15:45:11:045 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 15:51:58:051 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:51:58:051 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:52:51:052 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 15:53:11:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:53:11:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:53:16:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:53:16:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 15:53:39:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 15:53:39:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 16:01:01:001 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 16:01:02:001 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 16:01:19:001 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 16:01:52:001 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 16:01:52:001 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 16:46:17:046 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 16:46:17:046 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 16:47:01:047 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 16:47:01:047 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 16:53:53:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 16:53:54:053 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 16:56:25:056 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 16:56:26:056 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 16:58:53:058 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 17:01:15:001 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 17:01:15:001 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 17:05:43:005 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 17:07:33:007 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 17:07:33:007 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 17:07:40:007 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 17:07:40:007 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:07:40:007 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:07:40:007 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 17:07:40:007 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:07:46:007 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:07:52:007 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:07:52:007 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:07:52:007 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 17:07:52:007 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:07:52:007 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:07:52:007 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:07:52:007 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:07:52:007 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:07:52:007 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:07:52:007 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 17:07:52:007 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:07:55:007 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:07:56:007 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:07:56:007 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:07:56:007 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 17:07:56:007 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:07:57:007 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:07:58:007 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:07:58:007 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:07:58:007 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 17:07:58:007 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:07:59:007 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:07:59:007 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:07:59:007 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:07:59:007 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 17:08:00:008 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:08:00:008 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:08:00:008 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:08:00:008 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:08:00:008 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1272:773) erkannt. 1.6455369
+05:10:2009 17:08:00:008 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:08:01:008 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:08:22:008 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 17:08:22:008 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 17:11:28:011 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 17:14:40:014 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 17:14:41:014 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 17:14:43:014 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 17:14:44:014 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:14:44:014 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:14:44:014 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 17:14:44:014 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:15:11:015 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 17:15:11:015 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+05:10:2009 17:15:14:015 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+05:10:2009 17:15:14:015 [INFO] <client.gui.GLPanel> GL Init
+05:10:2009 17:15:14:015 [WARNING] <client.gui.GLPanel> Shader not Suported
+05:10:2009 17:15:14:015 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+05:10:2009 17:15:15:015 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+05:10:2009 17:15:16:015 [WARNING] <client.GameController> Lost Focus --> Threads pausieren
+05:10:2009 17:16:15:016 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> start
+05:10:2009 17:16:15:016 [WARNING] <maptool.gui.mainFrame.GLViewSelectionPanel> ready
+06:10:2009 12:14:43:014 [ERROR] <maptool.chapter.MapLoader> loadMap() Datei wurde nicht gefunden
+06:10:2009 12:15:17:015 [ERROR] <maptool.chapter.MapLoader> loadMap() Datei wurde nicht gefunden
+06:10:2009 12:15:50:015 [ERROR] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids.
+06:10:2009 12:16:53:016 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+07:10:2009 11:05:08:005 [ERROR] <maptool.gui.mainFrame.MainMenu> Fehler beim importieren eines Kontainers
+07:10:2009 11:15:16:015 [INFO] <maptool.export.ExportDAO> Das Objekt "Ring_aus_Boxen" wurde Exportiert
+08:10:2009 10:21:20:021 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+08:10:2009 10:21:20:021 [ERROR] <chapter.MapLoader> loadMap() Datei wurde nicht gefunden
+08:10:2009 10:21:21:021 [INFO] <client.gui.GLPanel> GL Init
+08:10:2009 10:21:21:021 [WARNING] <client.gui.GLPanel> Shader not Suported
+08:10:2009 10:21:21:021 [WARNING] <client.GameThread> unbekannter Kollisionsstatus
+08:10:2009 10:21:21:021 [WARNING] <client.GameThread> unbekannter Kollisionsstatus
+08:10:2009 10:21:21:021 [WARNING] <client.GameThread> unbekannter Kollisionsstatus
+08:10:2009 10:21:21:021 [INFO] <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+08:10:2009 10:21:22:021 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+08:10:2009 10:21:31:021 [WARNING] <client.GameThread> unbekannter Kollisionsstatus
+08:10:2009 11:25:07:025 [DEBUG] <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+08:10:2009 11:26:10:026 [DEBUG] <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+08:10:2009 11:28:27:028 [DEBUG] <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+08:10:2009 11:30:08:030 [DEBUG] <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+14:10:2009 17:00:09:000 [DEBUG] <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+14:10:2009 17:01:31:001 [DEBUG] <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+14:10:2009 17:01:37:001 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+15:10:2009 16:58:03:058 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+15:10:2009 16:59:13:059 [INFO] <maptool.export.ExportDAO> Die Map wurde Exportiert.
+15:10:2009 17:21:07:021 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+15:10:2009 17:21:35:021 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+15:10:2009 17:21:36:021 [INFO]    <client.gui.GLPanel> GL Init
+15:10:2009 17:21:36:021 [WARNING] <client.gui.GLPanel> Shader not Suported
+15:10:2009 17:21:36:021 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+15:10:2009 17:21:37:021 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+15:10:2009 17:22:16:022 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+15:10:2009 17:22:17:022 [INFO]    <client.gui.GLPanel> GL Init
+15:10:2009 17:22:17:022 [WARNING] <client.gui.GLPanel> Shader not Suported
+15:10:2009 17:22:17:022 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+15:10:2009 17:22:17:022 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+16:10:2009 15:12:25:012 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+16:10:2009 15:13:08:013 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 13:02:14:002 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 13:03:41:003 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 13:05:59:005 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 13:19:12:019 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 13:20:56:020 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+21:10:2009 13:21:56:021 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 13:24:03:024 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 13:24:12:024 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+21:10:2009 13:24:12:024 [INFO]    <client.gui.GLPanel> GL Init
+21:10:2009 13:24:12:024 [WARNING] <client.gui.GLPanel> Shader not Suported
+21:10:2009 13:24:12:024 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+21:10:2009 13:24:13:024 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+21:10:2009 18:40:16:040 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 18:42:43:042 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 18:42:47:042 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+21:10:2009 18:42:48:042 [INFO]    <client.gui.GLPanel> GL Init
+21:10:2009 18:42:48:042 [WARNING] <client.gui.GLPanel> Shader not Suported
+21:10:2009 18:42:49:042 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+21:10:2009 18:42:49:042 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+21:10:2009 18:43:31:043 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 18:43:43:043 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 18:46:26:046 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+21:10:2009 18:46:28:046 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+21:10:2009 18:46:29:046 [INFO]    <client.gui.GLPanel> GL Init
+21:10:2009 18:46:29:046 [WARNING] <client.gui.GLPanel> Shader not Suported
+21:10:2009 18:46:29:046 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1280:800) erkannt. 1.6
+21:10:2009 18:46:29:046 [WARNING] <client.GameController> Get Focus --> Threads wieder starten
+21:10:2009 20:54:18:054 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+28:10:2009 11:45:27:045 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_17" wurde Exportiert
+29:10:2009 12:20:00:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 13:41:50:041 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 13:49:34:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 13:49:49:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:10:56:010 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:15:39:015 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:17:48:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:23:38:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:23:58:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:24:32:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:26:44:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:26:48:026 [ERROR]   <maptool.gui.mainFrame.MainMenu> javax.swing.JMenuItem[,3,3,51x19,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@105d88a,flags=264,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=false,paintFocus=false,pressedIcon=,rolloverEnabled=false,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Box]
+29:10:2009 14:28:57:028 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:34:33:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:34:39:034 [DEBUG]   <maptool.gui.mainFrame.MainMenu> null
+29:10:2009 14:38:30:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:38:36:038 [DEBUG]   <maptool.gui.mainFrame.MainMenu> Box
+29:10:2009 14:39:18:039 [DEBUG]   <maptool.gui.mainFrame.MainMenu> Box
+29:10:2009 14:39:36:039 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:42:18:042 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:43:06:043 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:10:2009 14:43:25:043 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+29:10:2009 14:43:26:043 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+30:10:2009 14:05:19:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:10:2009 14:06:01:006 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+30:10:2009 14:06:14:006 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+30:10:2009 14:08:29:008 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:10:2009 14:08:35:008 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+30:10:2009 14:21:13:021 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:11:2009 09:52:06:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:11:2009 09:58:41:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:11:2009 10:00:08:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:11:2009 10:01:15:001 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:12:55:012 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:25:22:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:25:59:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:26:38:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:26:56:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:27:28:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:30:55:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:35:08:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:38:52:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:44:35:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:44:53:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:45:15:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:45:45:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:46:27:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:47:14:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:48:25:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:48:45:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:48:59:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:52:28:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 11:59:00:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 14:41:46:041 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 14:46:20:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 14:54:55:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:00:27:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:01:50:001 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:02:01:002 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+11:11:2009 15:05:00:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:05:42:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:05:57:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:06:08:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+11:11:2009 15:09:14:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:12:49:012 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 15:13:09:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+11:11:2009 15:23:21:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 16:13:57:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:47:48:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:49:53:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:50:47:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:52:05:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:52:50:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:53:28:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:56:24:056 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:56:38:056 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:58:58:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 20:59:31:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 21:01:35:001 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 21:03:15:003 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+11:11:2009 21:05:32:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+19:11:2009 11:59:27:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+22:11:2009 18:00:53:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 14:09:02:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 18:53:20:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 21:25:16:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 21:30:12:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 21:30:45:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 21:45:09:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 21:45:24:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+23:11:2009 21:46:16:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:38:43:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:38:55:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:44:17:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:45:19:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:47:07:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:47:42:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:48:21:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:49:04:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:49:27:049 [ERROR]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+23:11:2009 22:51:06:051 [ERROR]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+23:11:2009 22:51:17:051 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:51:51:051 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+23:11:2009 22:52:44:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:07:49:007 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:08:01:008 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 11:09:02:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:09:13:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 11:13:00:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:13:05:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 11:29:16:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:29:27:029 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 11:31:25:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:31:38:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 11:34:12:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:35:45:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:35:59:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 11:36:34:036 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:36:57:036 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 11:40:39:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:45:46:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:47:05:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:47:24:047 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 11:49:44:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:50:39:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:54:31:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:54:47:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:55:18:055 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 11:58:32:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:09:28:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:09:58:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 12:10:33:010 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:11:09:011 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:13:14:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:16:22:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:19:21:019 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:20:20:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:22:17:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 12:23:01:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 13:38:47:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 13:46:17:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:08:31:008 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:08:46:008 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 14:08:51:008 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+24:11:2009 14:10:26:010 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+24:11:2009 14:14:09:014 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+24:11:2009 14:14:13:014 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:16:39:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:17:59:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:18:12:018 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 14:19:36:019 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 14:24:36:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:28:43:028 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:29:00:029 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 14:33:11:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:33:50:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 14:34:33:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 14:36:09:036 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 14:37:41:037 [ERROR]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+24:11:2009 15:00:41:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 15:01:07:001 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 15:03:58:003 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 15:04:10:004 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 15:05:10:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 15:05:37:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 15:06:01:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 15:06:05:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 15:06:12:006 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 15:06:32:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 15:06:43:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 15:06:47:006 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 15:11:01:011 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 15:18:12:018 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 15:19:11:019 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+24:11:2009 15:20:17:020 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+24:11:2009 17:12:15:012 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+24:11:2009 17:13:22:013 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+24:11:2009 17:13:23:013 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+24:11:2009 23:10:53:010 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+26:11:2009 07:22:48:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+26:11:2009 07:32:14:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+26:11:2009 07:32:26:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+26:11:2009 08:00:30:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+26:11:2009 08:00:35:000 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+26:11:2009 08:00:59:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:32:51:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:33:39:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+27:11:2009 07:34:33:034 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 07:35:22:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:35:48:035 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 07:37:46:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:38:29:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:38:39:038 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 07:39:08:039 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 07:39:46:039 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:40:09:040 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 07:41:07:041 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:41:26:041 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 07:52:28:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:53:55:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 07:54:05:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+27:11:2009 07:54:31:054 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 07:55:21:055 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 08:26:37:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 08:27:26:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 08:28:25:028 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 08:29:16:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 08:29:51:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 11:53:56:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 11:57:01:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 11:57:25:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 11:57:45:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 11:58:05:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 12:02:33:002 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 12:06:11:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 12:17:31:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 12:21:58:021 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 13:28:43:028 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+27:11:2009 13:30:25:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 13:31:30:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 13:34:19:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 13:36:35:036 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 13:37:14:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 13:38:23:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+27:11:2009 13:38:47:038 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 14:22:43:022 [DEBUG]   <maptool.chapter.MapLoader> class framework.types.Portal$PortalType$1
+27:11:2009 14:24:12:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 14:24:37:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+27:11:2009 14:25:06:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 14:37:59:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 14:38:41:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 14:39:02:039 [ERROR]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+27:11:2009 14:45:28:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 14:45:44:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 14:46:12:046 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 14:46:33:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 15:06:35:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 15:06:50:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+27:11:2009 15:07:01:007 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+27:11:2009 15:07:05:007 [INFO]    <maptool.export.ExportDAO> Das Objekt "Box(PortalB)" wurde Exportiert
+27:11:2009 15:09:23:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 15:10:17:010 [INFO]    <maptool.export.ExportDAO> Das Objekt "ebene" wurde Exportiert
+27:11:2009 15:13:48:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 15:34:56:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 15:35:30:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 15:36:09:036 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+27:11:2009 15:36:13:036 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_4" wurde Exportiert
+28:11:2009 17:42:17:042 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+28:11:2009 17:43:01:043 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_2" wurde Exportiert
+28:11:2009 17:44:30:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+28:11:2009 17:44:35:044 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_4" wurde Exportiert
+29:11:2009 20:03:42:003 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:11:2009 20:06:57:006 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+29:11:2009 20:07:40:007 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+29:11:2009 20:08:31:008 [ERROR]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+29:11:2009 20:09:33:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:11:2009 20:09:41:009 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+29:11:2009 20:14:47:014 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+29:11:2009 20:15:32:015 [ERROR]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+29:11:2009 20:15:49:015 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:11:2009 20:16:17:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+29:11:2009 20:16:27:016 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 10:24:07:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 10:24:51:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 10:24:57:024 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 10:27:33:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 10:29:48:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 10:30:03:030 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 10:30:12:030 [ERROR]   <maptool.chapter.MapLoader> loadMap() Datei wurde nicht gefunden
+30:11:2009 10:31:33:031 [ERROR]   <maptool.chapter.MapLoader> loadMap() Datei wurde nicht gefunden
+30:11:2009 10:31:57:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 10:32:07:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 10:48:40:048 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 10:49:14:049 [ERROR]   <maptool.chapter.MapLoader> loadMap() Fehler beim lesen des XML-Codes
+30:11:2009 10:50:00:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 10:50:10:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 10:50:14:050 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 10:51:31:051 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 10:51:38:051 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 10:53:33:053 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 10:54:15:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 10:54:18:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 10:55:26:055 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 11:00:35:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 11:00:39:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 11:00:50:000 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 11:02:10:002 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 11:02:59:002 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 11:03:02:003 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 11:03:20:003 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 12:52:54:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 12:52:58:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 12:53:14:053 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 12:53:22:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 12:53:27:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 13:17:41:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:17:48:017 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 13:19:26:019 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:19:32:019 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 13:21:17:021 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:21:25:021 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 13:22:27:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:24:03:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:24:07:024 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 13:24:31:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:24:37:024 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 13:25:07:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:25:22:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 13:25:38:025 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 13:26:04:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:26:07:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 13:26:38:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:31:24:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:33:01:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:33:07:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 13:33:19:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:34:43:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:34:46:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 13:35:43:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:35:51:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 13:37:57:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:40:18:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:44:44:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:48:41:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 13:48:48:048 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 15:23:19:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 15:23:26:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 15:23:37:023 [INFO]    <maptool.export.ExportDAO> Das Objekt "Munitionskiste" wurde Exportiert
+30:11:2009 15:26:11:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 15:26:24:026 [INFO]    <maptool.export.ExportDAO> Das Objekt "Chipkarte" wurde Exportiert
+30:11:2009 15:27:01:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 15:27:10:027 [INFO]    <maptool.export.ExportDAO> Das Objekt "Chipkarte" wurde Exportiert
+30:11:2009 15:44:13:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 15:44:23:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 15:44:30:044 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 15:46:27:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 15:46:30:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 15:46:38:046 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 15:57:50:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 15:57:53:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 15:57:55:057 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:00:46:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:00:48:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:00:51:000 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:13:33:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:13:36:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:13:39:013 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:14:17:014 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:16:09:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:16:11:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:16:14:016 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:20:53:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:20:55:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:21:01:021 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:21:47:021 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:22:17:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:22:21:022 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:24:56:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:25:34:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:25:37:025 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:30:47:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:30:58:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:31:03:031 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:32:54:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:32:59:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:33:01:033 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:34:26:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:46:06:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:46:09:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:46:17:046 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:50:12:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:50:15:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 16:50:18:050 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 16:51:06:051 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:51:12:051 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 16:52:46:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:52:54:052 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 16:55:42:055 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:55:46:055 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 16:59:32:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:59:36:059 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 16:59:53:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 16:59:56:059 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 17:00:45:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:00:51:000 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 17:02:32:002 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:02:38:002 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 17:20:47:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:20:50:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 17:22:24:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:22:53:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:22:55:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 17:25:11:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:25:19:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 17:26:17:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:26:19:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 17:27:04:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:27:24:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:27:37:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:28:03:028 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:28:27:028 [INFO]    <maptool.export.ExportDAO> Das Objekt "Versteck" wurde Exportiert
+30:11:2009 17:30:34:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:31:08:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:31:11:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 17:39:50:039 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 17:40:45:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:18:21:018 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:18:26:018 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:19:23:019 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:19:29:019 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:20:36:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:20:39:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:22:12:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:23:35:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:24:10:024 [INFO]    <maptool.export.ExportDAO> Das Objekt "Munitionskiste" wurde Exportiert
+30:11:2009 19:24:23:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:27:12:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:27:41:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:27:58:027 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_17" wurde Exportiert
+30:11:2009 19:29:18:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:29:31:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:29:42:029 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_0" wurde Exportiert
+30:11:2009 19:31:16:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:31:18:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:31:23:031 [INFO]    <maptool.export.ExportDAO> Das Objekt "ebene" wurde Exportiert
+30:11:2009 19:32:04:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 19:32:34:032 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 19:32:44:032 [INFO]    <maptool.export.ExportDAO> Das Objekt "Portal" wurde Exportiert
+30:11:2009 20:16:40:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:16:49:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 20:16:59:016 [INFO]    <maptool.export.ExportDAO> Das Objekt "SchalterFahrstuhlAussen" wurde Exportiert
+30:11:2009 20:26:39:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:26:50:026 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_0" wurde Exportiert
+30:11:2009 20:40:26:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:40:32:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:40:36:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 20:41:08:041 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_15" wurde Exportiert
+30:11:2009 20:42:14:042 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:43:20:043 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 20:43:24:043 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_29" wurde Exportiert
+30:11:2009 20:43:46:043 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:43:53:043 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_38" wurde Exportiert
+30:11:2009 20:44:07:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 20:45:18:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:45:25:045 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_38" wurde Exportiert
+30:11:2009 20:47:58:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:49:29:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:50:04:050 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_38" wurde Exportiert
+30:11:2009 20:54:33:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 20:54:44:054 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_38" wurde Exportiert
+30:11:2009 20:54:55:054 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 20:59:08:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 21:05:02:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+30:11:2009 21:05:12:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+30:11:2009 21:05:21:005 [INFO]    <maptool.export.ExportDAO> Das Objekt "Object_17" wurde Exportiert
+30:11:2009 21:05:56:005 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+30:11:2009 21:06:43:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+01:12:2009 08:59:48:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+01:12:2009 08:59:53:059 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+01:12:2009 09:00:27:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+01:12:2009 09:10:20:010 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 09:33:22:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 09:33:37:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:12:2009 09:34:24:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 09:34:36:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:12:2009 09:36:46:036 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+03:12:2009 09:37:55:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 09:38:11:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:12:2009 09:38:25:038 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+03:12:2009 09:39:13:039 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 09:39:28:039 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:12:2009 09:41:18:041 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 09:45:00:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 10:17:47:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:02:11:002 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:07:57:007 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:28:36:028 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+03:12:2009 11:28:59:028 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:29:03:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:12:2009 11:33:00:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:34:43:034 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:12:2009 11:35:05:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:36:34:036 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+03:12:2009 11:36:58:036 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+03:12:2009 11:37:34:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:37:57:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:38:02:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:12:2009 11:38:38:038 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+03:12:2009 11:38:42:038 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:12:2009 11:39:00:039 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+07:12:2009 13:29:09:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+07:12:2009 13:29:27:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+07:12:2009 13:46:53:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+08:12:2009 11:42:00:042 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+08:12:2009 11:42:22:042 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+08:12:2009 11:44:14:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+09:12:2009 10:35:57:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+09:12:2009 10:40:29:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+09:12:2009 10:45:37:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+09:12:2009 10:47:37:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+09:12:2009 13:24:17:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+09:12:2009 13:24:40:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+09:12:2009 13:25:25:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+09:12:2009 20:24:07:024 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+10:12:2009 10:49:12:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:12:2009 15:47:30:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:12:2009 15:48:19:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:12:2009 15:48:32:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+13:01:2010 09:52:04:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:01:2010 11:23:12:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+29:01:2010 11:28:22:028 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+31:01:2010 18:29:06:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+31:01:2010 18:29:51:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+31:01:2010 19:19:45:019 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+31:01:2010 19:20:52:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+31:01:2010 19:21:22:021 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+31:01:2010 19:22:37:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+31:01:2010 19:25:32:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+31:01:2010 19:25:45:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+31:01:2010 19:29:53:029 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+31:01:2010 19:30:02:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:02:2010 10:36:54:036 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:02:2010 10:37:00:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+03:02:2010 19:37:21:037 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:02:2010 20:53:06:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+03:02:2010 20:53:11:053 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+03:02:2010 20:53:11:053 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+03:02:2010 20:53:12:053 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+18:02:2010 10:35:16:035 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:02:2010 12:07:50:007 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:02:2010 12:11:21:011 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:02:2010 12:11:57:011 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:02:2010 16:03:43:003 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:02:2010 16:05:27:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+18:02:2010 16:06:14:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:02:2010 16:06:28:006 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+18:02:2010 16:10:36:010 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+17:03:2010 12:14:43:014 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+22:03:2010 13:56:08:056 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+22:03:2010 14:11:08:011 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+14:11:2013 22:04:16:004 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+14:11:2013 22:05:34:005 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+14:11:2013 22:58:03:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+14:11:2013 23:13:25:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+14:11:2013 23:13:49:013 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+14:11:2013 23:17:56:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+15:09:2015 18:11:03:011 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+15:09:2015 18:11:18:011 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+15:09:2015 18:11:47:011 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+15:09:2015 18:11:48:011 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+15:09:2015 18:12:11:012 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+15:09:2015 18:12:11:012 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+15:09:2015 18:12:11:012 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+18:01:2016 21:53:40:053 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 21:54:10:054 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 21:54:10:054 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+18:01:2016 21:58:10:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+18:01:2016 22:07:31:007 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:07:39:007 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:17:38:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:17:57:017 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+18:01:2016 22:19:33:019 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:19:33:019 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+18:01:2016 22:20:07:020 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:20:07:020 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+18:01:2016 22:21:50:021 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:21:50:021 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:21:50:021 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:21:56:021 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:21:56:021 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:21:56:021 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:28:21:028 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:28:24:028 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:28:27:028 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:28:27:028 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:30:21:030 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:30:24:030 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:30:24:030 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:30:24:030 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:30:24:030 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:30:24:030 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:30:24:030 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:31:19:031 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:31:22:031 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:31:22:031 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:31:22:031 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:31:38:031 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:31:38:031 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:33:22:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:33:27:033 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 22:33:28:033 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+18:01:2016 22:33:28:033 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:33:28:033 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:33:28:033 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:33:28:033 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:33:28:033 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:33:29:033 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:33:44:033 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:33:48:033 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+18:01:2016 22:33:48:033 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+18:01:2016 22:33:48:033 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:33:48:033 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+18:01:2016 22:33:48:033 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:33:48:033 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:33:48:033 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:33:48:033 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:33:48:033 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:33:49:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:33:50:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:33:51:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:33:51:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:33:51:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:33:52:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:33:52:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/change.wav
+18:01:2016 22:33:53:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:33:53:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:33:55:033 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 22:34:02:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:03:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:03:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:03:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:03:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:04:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:04:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:08:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:08:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:08:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:09:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:09:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:09:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:09:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:09:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:09:034 [FATAL]   <client.GameThread> Letzte Position nicht kollisionsfrei.
+18:01:2016 22:34:09:034 [FATAL]   <client.GameThread> Letzte Position nicht kollisionsfrei.
+18:01:2016 22:34:10:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:10:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:10:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:11:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:11:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:11:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:11:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:12:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:13:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/change.wav
+18:01:2016 22:34:14:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:14:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:15:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:15:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:16:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:16:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:16:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:17:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:17:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:34:17:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:34:18:034 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:40:19:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:40:21:040 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:40:21:040 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:40:21:040 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:40:21:040 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:40:21:040 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:40:21:040 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:41:22:041 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:41:25:041 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:41:25:041 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:41:25:041 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:41:25:041 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:41:25:041 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:41:25:041 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:43:24:043 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:43:26:043 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:43:26:043 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:43:26:043 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:43:26:043 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:43:26:043 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:43:26:043 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:43:27:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:28:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:28:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:28:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:29:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:29:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:29:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:30:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 22:43:30:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:31:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:31:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:32:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:32:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:32:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:33:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:33:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:33:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:34:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:34:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:34:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:35:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:35:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:35:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:36:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:36:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:36:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:37:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:38:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 22:43:39:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 22:43:40:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:40:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:40:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:40:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:40:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:41:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:41:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:41:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:41:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:42:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:42:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:42:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:42:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:43:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:43:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:43:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:43:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:43:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:44:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:44:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:44:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:44:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:44:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:45:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:45:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:45:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:45:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:46:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:46:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/boing.wav
+18:01:2016 22:43:46:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:47:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:47:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:48:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:51:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:52:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:52:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:43:52:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:43:53:043 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 22:50:31:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:50:33:050 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:50:33:050 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:50:33:050 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:50:34:050 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:50:34:050 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:50:48:050 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:50:48:050 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:50:48:050 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:50:49:050 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:50:49:050 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:50:50:050 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:50:54:050 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:50:54:050 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:50:54:050 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:50:54:050 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:50:55:050 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:50:55:050 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:50:55:050 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:50:56:050 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:50:56:050 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:50:56:050 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:50:56:050 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:50:56:050 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:50:56:050 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:50:57:050 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:50:59:050 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:50:59:050 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:51:00:051 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:51:00:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:51:00:051 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:51:00:051 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:51:00:051 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:51:01:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:51:01:051 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:51:01:051 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:51:02:051 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:51:02:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:51:02:051 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:51:02:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:51:02:051 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:51:02:051 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:51:03:051 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:51:03:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:51:17:051 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:51:19:051 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:51:19:051 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:51:19:051 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:51:20:051 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:51:21:051 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:51:24:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:51:24:051 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:51:25:051 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:51:25:051 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:51:25:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:51:30:051 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:51:32:051 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:51:33:051 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:51:33:051 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:51:48:051 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:52:03:052 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 22:52:13:052 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 22:52:19:052 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:52:19:052 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:52:20:052 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:52:32:052 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:52:57:052 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:52:57:052 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:52:58:052 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:52:58:052 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:53:00:053 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+18:01:2016 22:53:00:053 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:53:01:053 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+18:01:2016 22:53:34:053 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:55:23:055 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:55:26:055 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+18:01:2016 22:55:26:055 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 22:55:27:055 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 22:55:27:055 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 22:55:27:055 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 22:55:28:055 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 22:55:32:055 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 22:57:50:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 22:57:56:057 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+18:01:2016 22:58:30:058 [DEBUG]   <maptool.gui.mainFrame.ObjectNavigatorView> ObjectTree reload
+18:01:2016 22:58:55:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 23:01:23:001 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 23:03:27:003 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 23:03:30:003 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+18:01:2016 23:03:30:003 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 23:03:31:003 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 23:03:31:003 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 23:03:31:003 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 23:03:31:003 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 23:03:31:003 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 23:03:33:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:03:33:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:03:33:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:03:34:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:03:34:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:03:35:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:03:35:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:03:35:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:03:39:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:03:40:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:03:40:003 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:11:007 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 23:07:17:007 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+18:01:2016 23:07:17:007 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+18:01:2016 23:07:17:007 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+18:01:2016 23:07:17:007 [INFO]    <client.gui.GLPanel> GL Init
+18:01:2016 23:07:17:007 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+18:01:2016 23:07:17:007 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+18:01:2016 23:07:18:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:20:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 23:07:20:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:20:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:21:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:21:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:23:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:24:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:24:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:25:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:25:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:26:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:26:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:27:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:27:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:28:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 23:07:30:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:07:31:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 23:07:32:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+18:01:2016 23:07:33:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+18:01:2016 23:07:33:007 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+18:01:2016 23:23:52:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+18:01:2016 23:26:10:026 [INFO]    <maptool.export.ExportDAO> Das Objekt "Munitionskiste" wurde Exportiert
+18:01:2016 23:26:51:026 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+20:01:2016 19:52:00:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 19:52:10:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 20:10:46:010 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+20:01:2016 20:20:39:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 20:27:23:027 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 20:40:46:040 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 20:44:18:044 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 20:51:02:051 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 20:52:56:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+20:01:2016 20:55:48:055 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 20:58:57:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 21:00:06:000 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 21:00:06:000 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+20:01:2016 21:00:06:000 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+20:01:2016 21:00:06:000 [INFO]    <client.gui.GLPanel> GL Init
+20:01:2016 21:00:06:000 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+20:01:2016 21:00:06:000 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+20:01:2016 21:00:08:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 21:00:09:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 21:00:09:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 21:00:15:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 21:00:28:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+20:01:2016 21:02:35:002 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 21:12:04:012 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:11:47:011 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:11:47:011 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+20:01:2016 22:12:55:012 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:12:55:012 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+20:01:2016 22:15:13:015 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:15:13:015 [ERROR]   <maptool.gui.mainFrame.MainModel> Fehler beim laden der Map.
+20:01:2016 22:16:22:016 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:20:57:020 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:20:58:020 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:21:14:021 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+20:01:2016 22:21:20:021 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:21:20:021 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:36:21:036 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:36:21:036 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:45:03:045 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:45:04:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:45:25:045 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:45:26:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:45:38:045 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:45:38:045 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:46:22:046 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:46:32:046 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:47:08:047 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:47:09:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:47:29:047 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:47:31:047 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:48:36:048 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:48:36:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:49:18:049 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:49:19:049 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:51:59:051 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:52:00:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:57:15:057 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:57:16:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:58:51:058 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:58:51:058 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 22:59:37:059 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 22:59:38:059 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:00:01:000 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:00:04:000 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:12:32:012 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:12:33:012 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:23:57:023 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:23:58:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:25:11:025 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:25:11:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:25:53:025 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:25:54:025 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:39:04:039 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:39:05:039 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:39:41:039 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:39:41:039 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:57:41:057 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:57:42:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+20:01:2016 23:57:56:057 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)
+20:01:2016 23:59:46:059 [INFO]    <maptool.export.ExportDAO> Die Map wurde Exportiert.
+20:01:2016 23:59:46:059 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+20:01:2016 23:59:46:059 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+20:01:2016 23:59:46:059 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+20:01:2016 23:59:46:059 [INFO]    <client.gui.GLPanel> GL Init
+20:01:2016 23:59:46:059 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+20:01:2016 23:59:46:059 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+20:01:2016 23:59:48:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:49:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:49:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:49:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:50:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:50:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:50:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:50:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:51:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:51:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:52:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:53:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:53:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:56:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:56:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:57:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:57:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:58:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+20:01:2016 23:59:59:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+20:01:2016 23:59:59:059 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:00:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:00:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:01:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:02:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:02:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:03:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:03:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:04:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:04:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:05:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:05:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:06:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:14:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:15:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:15:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:16:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:17:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:18:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:19:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:20:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:21:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:22:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:22:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:24:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:25:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:26:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:27:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:28:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:29:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:30:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:31:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:31:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:36:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:36:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:36:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:37:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:38:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:38:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:39:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:40:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:40:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:41:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:41:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:42:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:42:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:43:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:43:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:43:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:44:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:45:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:46:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:46:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:47:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:49:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:50:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:50:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:50:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:51:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:52:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:52:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:53:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:00:53:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:54:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:55:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:55:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:56:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:56:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:56:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:57:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:57:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:58:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:58:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:58:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:00:59:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:00:59:000 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:01:00:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:01:00:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:01:01:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:01:01:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:01:02:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:01:02:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:01:04:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:01:04:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
+21:01:2016 00:01:05:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:01:06:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
+21:01:2016 00:01:06:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+21:01:2016 00:01:07:001 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav

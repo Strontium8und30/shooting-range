@@ -1,0 +1,21 @@
+<model>
+    <texture file="gfx\wand006.tga" id="10"/>
+    <c_obj id="1175" name="Object_0" >
+        <s_obj id="1176" name="Dreieck" texture="10">
+            <vertex>2.1000147;-3.4332275E-4;0.4999404</vertex>
+            <tex_coord>4.2;1.0</tex_coord>
+            <vertex>-2.0999856;3.7145615E-4;0.5000596</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-2.1000147;3.4332275E-4;-0.4999404</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+        </s_obj>
+        <s_obj id="1177" name="Dreieck" texture="10">
+            <vertex>-2.1000147;3.4332275E-4;-0.4999404</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>2.0999851;-3.7145615E-4;-0.5000596</vertex>
+            <tex_coord>4.2;0.0</tex_coord>
+            <vertex>2.1000147;-3.4332275E-4;0.4999404</vertex>
+            <tex_coord>4.2;1.0</tex_coord>
+        </s_obj>
+    </c_obj>
+</model>

@@ -1,0 +1,67 @@
+<!DOCTYPE project [
+	<!ENTITY const SYSTEM "./conf/const.xml">
+	<!ENTITY targets SYSTEM "./conf/targets.xml">
+]>
+
+<project name="masterbuild" default="build_all" basedir=".">
+	
+	<property name="modules.dir" value="modules/"/>
+
+	&const;
+	
+	&targets;
+	
+	<target name="build_all">
+		<iterate-module target="compile"/>	
+		<!--<propertyfile file="test.txt">
+			<entry key="build.number" type="int" default="0" operation="+" pattern="000"/>
+		</propertyfile>-->
+	</target>
+	
+	<target name="clean_all">
+		<iterate-module target="clean"/>
+	</target>
+	
+	<macrodef name="iterate-module">
+        <attribute name="pathref" default="modules.all.path"/>
+        <attribute name="target"/>
+
+        <sequential>
+            <subant inheritAll="false"
+                    target="@{target}"
+                    buildpathref="@{pathref}"/>
+            <echo level="info" message="Executed '@{target}' for build path: @{pathref}"/>
+        </sequential>
+    </macrodef>
+	
+	<target name="dist-maptool" depends="build_all">
+		<mkdir dir="../dist_maptool"/>
+		<jar destfile="../dist_maptool/Maptool.jar" level="0" manifest="conf/manifest_maptool.fm">
+			<fileset dir="./modules/utilities/build"/>
+			<fileset dir="./modules/framework/build"/>
+			<fileset dir="./modules/map/build"/>
+			<fileset dir="./modules/maptool/build"/>
+		</jar>
+	</target>
+	
+	<target name="dist-spiel" depends="build_all">
+		<mkdir dir="../dist_spiel"/>
+		<jar destfile="../dist_spiel/Spiel.jar" level="0" manifest="conf/manifest_spiel.fm">
+			<fileset dir="./modules/utilities/build"/>
+			<fileset dir="./modules/framework/build"/>
+			<fileset dir="./modules/map/build"/>
+			<fileset dir="./modules/common/build"/>
+			<fileset dir="./modules/client/build"/>
+		</jar>
+	</target>
+	
+	<target name="dist-server" depends="build_all">
+		<mkdir dir="../dist_server"/>
+		<jar destfile="../dist_server/Server.jar" level="0" manifest="conf/manifest_server.fm">
+			<fileset dir="./modules/utilities/build"/>
+			<fileset dir="./modules/framework/build"/>
+			<fileset dir="./modules/common/build"/>
+			<fileset dir="./modules/server/build"/>
+		</jar>
+	</target>
+</project>

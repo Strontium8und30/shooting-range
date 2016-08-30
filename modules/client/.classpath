@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/utilities"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/chapter"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/framework"/>
+	<classpathentry kind="var" path="SPIEL_LIB/gluegen-rt.jar"/>
+	<classpathentry kind="var" path="SPIEL_LIB/jogl.jar"/>
+	<classpathentry kind="var" path="SPIEL_LIB/jdom.jar"/>
+	<classpathentry kind="var" path="SPIEL_LIB/miglayout-3.7.jar"/>
+	<classpathentry kind="output" path="build"/>
+</classpath>

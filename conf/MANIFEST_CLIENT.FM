@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . ./ ./lib/gluegen-rt.jar ./lib/jdom.jar ./lib/jogl.jar ./lib/miglayout-3.7.jar
+Main-Class: client.Spiel
+

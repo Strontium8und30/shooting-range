@@ -1,0 +1,21 @@
+<model>
+    <texture file="gfx\kiste001.jpg" id="3"/>
+    <c_obj id="151" name="SchalterFahrstuhlAussen" >
+        <s_obj id="152" name="Dreieck" texture="3">
+            <vertex>5.722046E-6;-0.1499972;0.100004196</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>-1.2397766E-5;-0.1500028;-0.09999561</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-4.2915344E-6;0.14999717;-0.10000467</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+        </s_obj>
+        <s_obj id="153" name="Dreieck" texture="3">
+            <vertex>-4.2915344E-6;0.14999717;-0.10000467</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>1.2397766E-5;0.15000278;0.099995136</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>5.722046E-6;-0.1499972;0.100004196</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+    </c_obj>
+</model>

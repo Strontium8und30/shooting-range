@@ -1,0 +1,11 @@
+
+	<!-- alle Module -->
+	<path id="modules.all.path">
+        <pathelement location="${modules.dir}/utilities/"/>
+		<pathelement location="${modules.dir}/framework/"/>
+		<pathelement location="${modules.dir}/map/"/>
+        <pathelement location="${modules.dir}/common"/>
+        <pathelement location="${modules.dir}/client/"/>
+        <pathelement location="${modules.dir}/server/"/>
+        <pathelement location="${modules.dir}/maptool"/>
+    </path>

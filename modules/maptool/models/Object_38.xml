@@ -1,0 +1,53 @@
+<model>
+    <texture file="gfx\wand004.jpg" id="4"/>
+    <c_obj name="Object_38" >
+        <s_obj name="Dreieck" texture="4">
+            <vertex>2.00017;-0.50005686;1.999815</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-1.9998305;-0.50005686;2.0001554</vertex>
+            <tex_coord>4.0;0.0</tex_coord>
+            <vertex>-1.9998305;0.4999432;2.000185</vertex>
+            <tex_coord>4.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="4">
+            <vertex>2.00017;-0.50005686;1.999815</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>2.00017;0.4999432;1.9998455</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-1.9998305;0.4999432;2.000185</vertex>
+            <tex_coord>4.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="4">
+            <vertex>-2.00017;-0.49994338;-1.9998455</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-1.9998305;-0.50005686;2.0001554</vertex>
+            <tex_coord>4.0;0.0</tex_coord>
+            <vertex>-1.9998305;0.4999432;2.000185</vertex>
+            <tex_coord>4.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="4">
+            <vertex>-2.00017;-0.49994338;-1.9998455</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-1.9998305;0.4999432;2.000185</vertex>
+            <tex_coord>4.0;1.0</tex_coord>
+            <vertex>-2.00017;0.50005686;-1.999815</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="4">
+            <vertex>1.9998295;-0.49994338;-2.000185</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-2.00017;-0.49994338;-1.9998455</vertex>
+            <tex_coord>4.0;0.0</tex_coord>
+            <vertex>-2.00017;0.50005686;-1.999815</vertex>
+            <tex_coord>4.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="4">
+            <vertex>1.9998295;-0.49994338;-2.000185</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>1.9998295;0.50005686;-2.0001545</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-2.00017;0.50005686;-1.999815</vertex>
+            <tex_coord>4.0;1.0</tex_coord>
+        </s_obj>
+    </c_obj>
+</model>

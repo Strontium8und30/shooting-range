@@ -1,0 +1,102 @@
+<model>
+    <texture file="gfx\kiste001.jpg" id="3"/>
+    <texture file="gfx\target.jpg" id="9"/>
+    <c_obj name="Object_17" >
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.2999574;-0.29999137;0.30005074</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.3000425;-0.30000854;-0.2999487</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>-0.3000425;0.2999916;-0.29996586</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.2999574;-0.29999137;0.30005074</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.3000425;0.2999916;-0.29996586</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>-0.2999574;0.30000854;0.30003357</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.3000425;-0.30000854;-0.2999487</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.2999586;-0.30000854;-0.30003357</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.2999586;0.2999916;-0.30005074</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.3000425;-0.30000854;-0.2999487</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.3000425;0.2999916;-0.29996586</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.2999586;0.2999916;-0.30005074</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="9">
+            <vertex>0.3000425;-0.29999137;0.29996586</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.2999586;-0.30000854;-0.30003357</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.2999586;0.2999916;-0.30005074</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="9">
+            <vertex>0.3000425;-0.29999137;0.29996586</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.2999586;0.2999916;-0.30005074</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>0.3000425;0.30000854;0.2999487</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.2999574;-0.29999137;0.30005074</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>0.3000425;-0.29999137;0.29996586</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.3000425;0.30000854;0.2999487</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.2999574;-0.29999137;0.30005074</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.2999574;0.30000854;0.30003357</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>0.3000425;0.30000854;0.2999487</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.2999574;-0.29999137;0.30005074</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.3000425;-0.30000854;-0.2999487</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.2999586;-0.30000854;-0.30003357</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>0.2999586;-0.30000854;-0.30003357</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>0.3000425;-0.29999137;0.29996586</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-0.2999574;-0.29999137;0.30005074</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>-0.2999574;0.30000854;0.30003357</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+            <vertex>-0.3000425;0.2999916;-0.29996586</vertex>
+            <tex_coord>1.0;0.0</tex_coord>
+            <vertex>0.2999586;0.2999916;-0.30005074</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+        </s_obj>
+        <s_obj name="Dreieck" texture="3">
+            <vertex>0.2999586;0.2999916;-0.30005074</vertex>
+            <tex_coord>1.0;1.0</tex_coord>
+            <vertex>0.3000425;0.30000854;0.2999487</vertex>
+            <tex_coord>0.0;1.0</tex_coord>
+            <vertex>-0.2999574;0.30000854;0.30003357</vertex>
+            <tex_coord>0.0;0.0</tex_coord>
+        </s_obj>
+    </c_obj>
+</model>
