@@ -11,6 +11,7 @@
 	
 	&targets;
 	
+	
 	<target name="build_all">
 		<iterate-module target="compile"/>	
 		<!--<propertyfile file="test.txt">
