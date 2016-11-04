@@ -7,6 +7,8 @@ import java.io.*;
 
 import javax.swing.*;
 
+import utilities.resource.ResourceLoader;
+
 public class TextureDetailPanel extends JPanel {
 
 	private ImageViewer imageViewer = null;
@@ -19,7 +21,7 @@ public class TextureDetailPanel extends JPanel {
 		setLayout(new GridBagLayout());
 		
 		imageViewer = new ImageViewer();
-		imageViewer.setImage(textureFile);
+		imageViewer.setImage(ResourceLoader.getFile(textureFile.toString()));
 		
 		add(imageViewer, 
 				new GridBagConstraints(0, 0, 1, 2, 0.0, 0.0, 
