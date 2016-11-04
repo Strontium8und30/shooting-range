@@ -2,6 +2,9 @@ package utilities;
 
 import java.awt.*;
 import java.io.*;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.net.URL;
 import java.text.*;
 import java.util.*;
 
@@ -9,6 +12,7 @@ import javax.sound.sampled.*;
 import javax.swing.*;
 
 import utilities.log.*;
+import utilities.resource.ResourceLoader;
 
 public class Utilities {
 	
@@ -47,7 +51,7 @@ public class Utilities {
 		ImageIcon icon = (ImageIcon)loadedIcons.get(path);
 		if (icon == null) {
 			log.warning("Icon musste nachgeladen werden: (" + path + ")");
-			icon = new ImageIcon(path);
+			icon = new ImageIcon(ResourceLoader.getFile(path).toString());
 			loadedIcons.put(path, icon);
 		}
 		return icon;
@@ -58,10 +62,10 @@ public class Utilities {
 		if (font == null) {
 			log.warning("Font musste nachgeladen werden: (" + path + ")");
 			try {
-				font = Font.createFont(Font.TRUETYPE_FONT, new File(path));
+				font = Font.createFont(Font.TRUETYPE_FONT, ResourceLoader.getFile(path));
 			} catch (FontFormatException e) {
 				log.error("FontFormat Fehler beim laden einer Schriftart", e);
-			} catch (IOException e) {
+			} catch (Exception e) {
 				log.error("Datei Fehler beim laden einer Schriftart", e);
 			}
 			loadedFonts.put(path, font);
@@ -78,7 +82,7 @@ public class Utilities {
 		if (sound == null) {
 			try {
 				log.warning("AudioClip musste nachgeladen werden: (" + path + ")");
-				AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File(path));
+				AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(ResourceLoader.getFile(path));
 				sound = AudioSystem.getClip();
 				sound.open(audioInputStream);
 				loadedSounds.put(path, sound);
@@ -103,7 +107,7 @@ public class Utilities {
 				byte[]	abData = new byte[128000];
 				AudioInputStream audioInputStream = null;
 				try	{
-					audioInputStream = AudioSystem.getAudioInputStream(new File(strFilename));
+					audioInputStream = AudioSystem.getAudioInputStream(ResourceLoader.getFile(strFilename));
 				} catch (Exception e) {
 					log.error("Fehler beim laden des Sounds: " + strFilename, e);
 				}

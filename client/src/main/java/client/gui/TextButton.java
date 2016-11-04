@@ -25,7 +25,7 @@ public class TextButton extends JButton {
 		setBorderPainted(false);
 		setForeground(Color.WHITE);
 		setBackground(new Color(0.0f, 0.0f, 0.0f, 0.0f));
-		setFont(Utilities.getFont("resource/blackletter.ttf").deriveFont(size));
+		setFont(Utilities.getFont("Blackletter.ttf").deriveFont(size));
 		
 		if(action != null) addActionListener(action);
 		addActionListener(new ActionListener() {

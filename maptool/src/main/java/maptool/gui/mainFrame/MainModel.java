@@ -33,6 +33,7 @@ import utilities.log.LogFactory;
 import utilities.mvc.DefaultModel;
 import utilities.mvc.EventAction;
 import utilities.mvc.View;
+import utilities.resource.ResourceLoader;
 
 
 
@@ -117,7 +118,7 @@ public class MainModel extends DefaultModel {
 	
 	public void loadMap() {
 		try {
-			File mapFile = new File("./maps/NoNameMap.xml");
+			File mapFile = ResourceLoader.getFile("./maps/NoNameMap.xml");
 			map = new MapLoader().loadMap(mapFile);
 		} catch (Exception e) {
 			log.error("Fehler beim laden der Map.", e);
@@ -128,7 +129,7 @@ public class MainModel extends DefaultModel {
 		modelObjects = new HashMap<String, ComplexContainerObject>();
 		Properties properties = new Properties();
 		try {
-			properties.load(new FileReader(new File("models/models.properties")));
+			properties.load(new FileReader(ResourceLoader.getFile("models/models.properties")));
 		} catch (FileNotFoundException e1) {
 			e1.printStackTrace();
 		} catch (IOException e1) {

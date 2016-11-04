@@ -11,6 +11,7 @@ import javax.media.opengl.GLException;
 
 import utilities.log.Log;
 import utilities.log.LogFactory;
+import utilities.resource.ResourceLoader;
 
 import com.sun.opengl.util.texture.Texture;
 import com.sun.opengl.util.texture.TextureIO;
@@ -32,7 +33,7 @@ public class TextureHelper {
 	private Texture createTexture(String file) {
 		Texture texture = null;
 		try {
-			texture = TextureIO.newTexture(new File(file), true);
+			texture = TextureIO.newTexture(ResourceLoader.getFile(file), true);
 			texture.setTexParameteri(GL.GL_TEXTURE_MIN_FILTER, GL.GL_LINEAR);
 			texture.setTexParameteri(GL.GL_TEXTURE_MAG_FILTER, GL.GL_LINEAR);
 			texture.setTexParameteri(GL.GL_TEXTURE_WRAP_S, GL.GL_REPEAT);

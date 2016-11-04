@@ -388,3 +388,93 @@
 04:11:2016 23:36:07:036 [INFO]    <client.gui.GLPanel> GL Init
 04:11:2016 23:36:07:036 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
 04:11:2016 23:36:07:036 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+04:11:2016 23:52:07:052 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (resource/blackletter.ttf)
+04:11:2016 23:52:07:052 [ERROR]   <utilities.Utilities> Datei Fehler beim laden einer Schriftart
+04:11:2016 23:53:04:053 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (blackletter.ttf)
+04:11:2016 23:53:04:053 [ERROR]   <utilities.Utilities> Datei Fehler beim laden einer Schriftart
+04:11:2016 23:53:52:053 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+04:11:2016 23:53:52:053 [ERROR]   <utilities.Utilities> Datei Fehler beim laden einer Schriftart
+04:11:2016 23:54:03:054 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+04:11:2016 23:56:29:056 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+04:11:2016 23:56:37:056 [ERROR]   <utilities.Utilities> Datei Fehler beim laden einer Schriftart
+04:11:2016 23:56:43:056 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+04:11:2016 23:56:43:056 [ERROR]   <utilities.Utilities> Datei Fehler beim laden einer Schriftart
+04:11:2016 23:57:07:057 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+04:11:2016 23:59:35:059 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:00:53:000 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:01:18:001 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:01:19:001 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+05:11:2016 00:06:09:006 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:06:15:006 [ERROR]   <framework.legacy.ImportFacade> Fehler beim Dateizugriff
+05:11:2016 00:07:03:007 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:08:19:008 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:08:26:008 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:08:26:008 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+05:11:2016 00:08:26:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:29:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:29:008 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:08:29:008 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:08:29:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:29:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:30:008 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:08:30:008 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:08:30:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:30:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:30:008 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:08:30:008 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:08:30:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:30:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:30:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:30:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:30:008 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:08:30:008 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:08:30:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:31:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:31:008 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:08:31:008 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:08:31:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:31:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:31:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:08:31:008 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:08:31:008 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:08:31:008 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:08:31:008 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:06:009 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:09:08:009 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:09:08:009 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+05:11:2016 00:09:08:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:10:009 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:09:10:009 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:09:10:009 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:09:10:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:10:009 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:09:11:009 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:09:11:009 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:09:11:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:11:009 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:09:11:009 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:09:11:009 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:09:11:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:11:009 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:09:11:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:11:009 [INFO]    <client.GameController> Lost Focus --> Threads pausieren
+05:11:2016 00:09:11:009 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:09:12:009 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1904:1041) erkannt. 1.8290106
+05:11:2016 00:09:12:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:45:009 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:09:47:009 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:09:47:009 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+05:11:2016 00:09:47:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:09:54:009 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:09:56:009 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:09:56:009 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+05:11:2016 00:09:56:009 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:11:10:011 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:11:52:011 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+05:11:2016 00:11:58:011 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+05:11:2016 00:12:06:012 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+05:11:2016 00:12:06:012 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+05:11:2016 00:12:07:012 [INFO]    <client.gui.GLPanel> GL Init
+05:11:2016 00:12:07:012 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+05:11:2016 00:12:07:012 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+05:11:2016 00:12:14:012 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: gfx\Target.JPG

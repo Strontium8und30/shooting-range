@@ -7,6 +7,7 @@ import org.jdom.*;
 
 import utilities.*;
 import utilities.log.*;
+import utilities.resource.ResourceLoader;
 import framework.*;
 import framework.weapons.crosshair.*;
 
@@ -117,7 +118,7 @@ public enum Weapon {
 	private Weapon(String propertieFile) {
 		Properties prop = new Properties();
 		try {
-			prop.load(new FileReader(new File(propertieFile)));
+			prop.load(new FileReader(ResourceLoader.getFile(propertieFile)));
 			
 			this.id = new Integer(prop.getProperty("weapon.id"));
 			this.name = prop.getProperty("weapon.name");

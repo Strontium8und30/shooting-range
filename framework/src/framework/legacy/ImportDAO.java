@@ -17,6 +17,7 @@ import framework.types.SimpleGraphicalObject;
 import framework.types.Vector2D;
 import framework.types.Vector3D;
 import utilities.gl.TextureHelper;
+import utilities.resource.ResourceLoader;
 
 public class ImportDAO {
 
@@ -30,7 +31,7 @@ public class ImportDAO {
 	
 	protected SimpleContainerObject importToModel(TextureHelper textureHelper, File importFile) throws JDOMException, IOException {
 		if (importFile == null) return null;
-		Document doc = new SAXBuilder().build(importFile);	
+		Document doc = new SAXBuilder().build(ResourceLoader.getFile(importFile.toString()));	
 		Map<Integer, Integer> compareTextureIDs = new HashMap<Integer, Integer>();
 		Element root = doc.getRootElement();
 		for(Object textureElement : root.getChildren("texture")) {

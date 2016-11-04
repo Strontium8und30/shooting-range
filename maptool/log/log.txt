@@ -1552,3 +1552,12 @@ java.text.SimpleDateFormat@7147a660ERROR <utilities.gl.TextureHelper> Eine Textu
 04:11:2016 23:36:36:036 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/aufprall.wav
 04:11:2016 23:36:36:036 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run2.wav
 04:11:2016 23:36:37:036 [ERROR]   <utilities.Utilities> Fehler beim laden des Sounds: fx/run1.wav
+04:11:2016 23:48:37:048 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+04:11:2016 23:48:37:048 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+04:11:2016 23:52:03:052 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+04:11:2016 23:52:03:052 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+05:11:2016 00:15:26:015 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+05:11:2016 00:16:08:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+05:11:2016 00:16:14:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+05:11:2016 00:16:53:016 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+05:11:2016 00:16:53:016 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)

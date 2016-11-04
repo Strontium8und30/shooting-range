@@ -1,3 +1,14 @@
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']
+        }       
+        resources {
+            srcDirs = ['src/main/resources']
+        } 
+	}
+}
+
 dependencies {
 	compile project(':utilities')
 	compile project(':common')

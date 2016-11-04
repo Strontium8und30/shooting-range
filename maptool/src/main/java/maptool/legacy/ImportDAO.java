@@ -17,6 +17,7 @@ import maptool.object.ComplexGraphicalObject;
 import utilities.gl.TextureHelper;
 import utilities.log.Log;
 import utilities.log.LogFactory;
+import utilities.resource.ResourceLoader;
 
 public class ImportDAO {
 
@@ -26,7 +27,7 @@ public class ImportDAO {
 	
 	public ComplexContainerObject importToModel(TextureHelper textureHelper, File importFile) throws JDOMException, IOException {
 		if (importFile == null) return null;
-		Document doc = new SAXBuilder().build(importFile);	
+		Document doc = new SAXBuilder().build(ResourceLoader.getFile(importFile.toString()));	
 		Map<Integer, Integer> compareTextureIDs = new HashMap<Integer, Integer>();
 		Element root = doc.getRootElement();
 		for(Object textureElement : root.getChildren("texture")) {

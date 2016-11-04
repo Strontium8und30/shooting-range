@@ -7,6 +7,7 @@ import javax.swing.*;
 import utilities.*;
 import utilities.control.*;
 import utilities.log.*;
+import utilities.resource.*;
 import client.*;
 
 public class GameFrame extends JFrame {
@@ -19,7 +20,7 @@ public class GameFrame extends JFrame {
 	
 	
 	public GameFrame(ClientModel clientModel) {
-		this(clientModel, new File("./maps/NoNameMap.xml"));
+		this(clientModel, ResourceLoader.getFile("./maps/NoNameMap.xml"));
 	}
 	
 	public GameFrame(ClientModel clientModel, File mapFile) {		
