@@ -1,0 +1,5 @@
+dependencies {
+	compile project(':utilities')
+	compile project(':framework')
+	compile group: 'org.jdom', name: 'jdom',  version: '1.1'
+}

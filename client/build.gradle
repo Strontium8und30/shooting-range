@@ -1,0 +1,6 @@
+dependencies {
+	compile project(':utilities')
+	compile project(':common')
+	compile project(':framework')
+	compile project(':map')
+}

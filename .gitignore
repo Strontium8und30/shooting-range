@@ -1,0 +1,16 @@
+/.gradle/
+/build/
+/client/bin
+/client/build
+/common/bin
+/common/build
+/server/bin
+/server/build
+/map/bin
+/map/build
+/maptool/bin
+/maptool/build
+/framework/bin
+/framework/build
+/utilities/bin
+/utilities/build

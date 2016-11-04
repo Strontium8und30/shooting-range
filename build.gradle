@@ -1,0 +1,28 @@
+allprojects {
+	apply plugin: 'eclipse'
+}
+
+subprojects {
+    apply plugin: 'java'
+    
+    repositories {
+	    mavenCentral()
+
+	   	flatDir {
+	        dirs "$rootProject.projectDir/lib/"
+	   	}
+	}
+    
+    sourceSets {
+	    main {
+	        java {
+	            srcDirs = ['src']
+	        }        
+   		}
+	}
+	
+	dependencies {
+		compile name: 'jogl'
+		compile name: 'gluegen-rt'
+	}
+}	

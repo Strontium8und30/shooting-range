@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="src" path="/utilities"/>
+	<classpathentry kind="src" path="/framework"/>
+	<classpathentry kind="lib" path="C:/Users/Thorben/Dropbox/TD-media/Projekte/shooting-range/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thorben/Dropbox/TD-media/Projekte/shooting-range/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thorben/.gradle/caches/modules-2/files-2.1/com.miglayout/miglayout/3.7.4/9cafd0bc5a567fe6514219e96dc62619471cd4e5/miglayout-3.7.4.jar" sourcepath="C:/Users/Thorben/.gradle/caches/modules-2/files-2.1/com.miglayout/miglayout/3.7.4/df4f413898981762adabddc82bd69bde522f100/miglayout-3.7.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thorben/.gradle/caches/modules-2/files-2.1/org.jdom/jdom/2.0.2/d06c71e0df0ac4b94deb737718580ccce22d92e8/jdom-2.0.2.jar" sourcepath="C:/Users/Thorben/.gradle/caches/modules-2/files-2.1/org.jdom/jdom/2.0.2/2c0614e33230394e42f5cfe55c20d5ae8949c108/jdom-2.0.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

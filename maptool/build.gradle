@@ -1,0 +1,7 @@
+dependencies {
+	compile project(':client')
+	compile project(':utilities')
+	compile project(':framework')
+	compile project(':map')
+	compile group: 'org.jdom', name: 'jdom', version: '1.1'
+}
