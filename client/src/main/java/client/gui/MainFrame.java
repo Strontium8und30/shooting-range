@@ -42,7 +42,7 @@ public class MainFrame extends DefaultView {
 		bgPanel = new ImagePanel("gfx/main_menue_bg.jpg");
 		mainFrame.setContentPane(bgPanel);
 		
-		mainFrame.setLayout(new MigLayout("insets 50 50 50 50", "[]75[grow, fill]", "[grow, fill]50[180:200:220,fill]"));
+		bgPanel.setLayout(new MigLayout("insets 50 50 50 50", "[]75[grow, fill]", "[grow, fill]50[180:200:220,fill]"));
 		
 		TransPanel panel = new TransPanel();
 		panel.setLayout(new MigLayout("", "[]", "[]30[]30[]75[]"));
@@ -62,7 +62,7 @@ public class MainFrame extends DefaultView {
 		panel.add(new TextButton("Einstellungen"), "cell 0 2");
 		panel.add(new TextButton("Beenden", Actions.ACTION_QUIT), "cell 0 3");
 		
-		mainFrame.add(panel, "cell 0 0 1 3");	
+		bgPanel.add(panel, "cell 0 0 1 3");	
 		JTabbedPane tb = new JTabbedPane();
 		tb.setBackground(new Color(0.0f,0.0f,0.0f,0.4f));
 		tb.setForeground(new Color(1.0f,1.0f,1.0f));
@@ -91,10 +91,10 @@ public class MainFrame extends DefaultView {
         header.setBackground(new Color(0.0f,0.0f,0.0f,0.0f));
 		tb.addTab("Spieler Online", new TransScrollPanel(clientTable));
 		tb.addTab("aktuelle Spiele", new JLabel("Alle Spiele"));
-		mainFrame.add(tb, "cell 1 0 1 1");
+		bgPanel.add(tb, "cell 1 0 1 1");
 
 		View chatView = new ChatView(getModel());
-		mainFrame.add(chatView.getComponent(), "cell 1 1 1 1");		
+		bgPanel.add(chatView.getComponent(), "cell 1 1 1 1");		
 		mainFrame.setVisible(true);
 		
 		((ClientModel)getModel()).createSocket("127.0.0.1", 1234);

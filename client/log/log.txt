@@ -478,3 +478,207 @@
 05:11:2016 00:12:07:012 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
 05:11:2016 00:12:07:012 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
 05:11:2016 00:12:14:012 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: gfx\Target.JPG
+26:11:2016 19:15:52:015 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:15:54:015 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:15:54:015 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:15:54:015 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:15:55:015 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:15:55:015 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:15:55:015 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:16:28:016 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:16:28:016 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:16:28:016 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:18:09:018 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:18:09:018 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:18:09:018 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:21:58:021 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:21:59:021 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:21:59:021 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:22:58:022 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:22:58:022 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:22:58:022 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:23:43:023 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:23:43:023 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:23:43:023 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:23:43:023 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:23:43:023 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:23:46:023 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:23:46:023 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:23:46:023 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:23:47:023 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:23:47:023 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:23:47:023 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:36:30:036 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:36:30:036 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:36:31:036 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:36:31:036 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:36:31:036 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:36:32:036 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:36:32:036 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:36:32:036 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:36:33:036 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:36:33:036 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:36:33:036 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:38:11:038 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:38:11:038 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:38:11:038 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:38:11:038 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:38:11:038 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:38:13:038 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:38:13:038 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:38:13:038 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:38:14:038 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:38:14:038 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:38:14:038 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:39:37:039 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:39:37:039 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:39:38:039 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:39:38:039 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:39:38:039 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:39:39:039 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:39:39:039 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:39:39:039 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:39:40:039 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:39:40:039 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:39:40:039 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:39:59:039 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:39:59:039 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:39:59:039 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:39:59:039 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:39:59:039 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:40:00:040 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:40:00:040 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:40:00:040 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:40:01:040 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:40:01:040 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:40:01:040 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:41:16:041 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:41:16:041 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:41:16:041 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:41:16:041 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:41:16:041 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:41:17:041 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:41:18:041 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:41:18:041 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:41:18:041 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:41:18:041 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:41:18:041 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:43:25:043 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:43:26:043 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:43:26:043 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:43:26:043 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:43:27:043 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:43:36:043 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:43:36:043 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:43:36:043 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:43:36:043 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:43:36:043 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:43:37:043 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:43:37:043 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:43:37:043 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:43:38:043 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:43:38:043 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:43:38:043 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:44:18:044 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:44:18:044 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:44:18:044 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:44:18:044 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:44:18:044 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:44:19:044 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:44:20:044 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:44:20:044 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:44:20:044 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:44:20:044 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:44:20:044 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:50:56:050 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:50:56:050 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:50:56:050 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:50:56:050 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:50:57:050 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:50:58:050 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:50:58:050 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:50:58:050 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:50:59:050 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:50:59:050 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:50:59:050 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:52:35:052 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:52:36:052 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:52:36:052 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:52:36:052 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:52:37:052 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:53:17:053 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:53:18:053 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:53:18:053 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:53:19:053 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:53:20:053 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:55:02:055 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:55:03:055 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:55:03:055 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:55:03:055 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:55:04:055 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:56:22:056 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:56:24:056 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:56:24:056 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:56:24:056 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:56:25:056 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:56:25:056 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:56:25:056 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:56:25:056 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:56:26:056 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:56:26:056 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:56:26:056 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:56:39:056 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:56:39:056 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 1
+26:11:2016 19:56:39:056 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:56:39:056 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:56:39:056 [INFO]    <client.ClientModel> Neuer Client Hinzugefügt: 2
+26:11:2016 19:56:42:056 [ERROR]   <client.ClientModel> Kein entsprechender Datentyp beim senden (Client)2
+26:11:2016 19:56:47:056 [ERROR]   <client.ClientModel> Kein entsprechender Datentyp beim senden (Client)2
+26:11:2016 19:56:53:056 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:56:53:056 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 3 Pfad: GFX\kiste001.jpg
+26:11:2016 19:56:53:056 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: GFX\Target.jpg
+26:11:2016 19:56:54:056 [INFO]    <client.gui.GLPanel> GL Init
+26:11:2016 19:56:54:056 [INFO]    <client.gui.GLPanel> Es wurde ein Bildschirmverhältnis von 16:9 (1920:1080) erkannt. 1.7777778
+26:11:2016 19:56:54:056 [INFO]    <client.GameController> Get Focus --> Threads wieder starten
+26:11:2016 19:57:02:057 [WARNING] <utilities.gl.TextureHelper> Eine Texture existiert doppelt mit verschiedenen ids: Id = 9 Pfad: gfx\Target.JPG
+26:11:2016 19:57:09:057 [DEBUG]   <framework.object.interactive.Switch> Play Sound OFF:fx/OpenInfo.wav
+26:11:2016 19:58:19:058 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:58:20:058 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:58:21:058 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:58:21:058 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:58:22:058 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:58:42:058 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:58:43:058 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:58:43:058 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:58:43:058 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:58:44:058 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:58:56:058 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:58:57:058 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 19:58:57:058 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 19:58:57:058 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 19:58:58:058 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:00:01:000 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:00:02:000 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:00:02:000 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 20:00:02:000 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:00:03:000 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:00:12:000 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:00:13:000 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:00:13:000 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 20:00:13:000 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:00:14:000 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:00:21:000 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:00:22:000 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:00:22:000 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 20:00:22:000 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:00:23:000 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:02:54:002 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:02:55:002 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:02:55:002 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 20:02:56:002 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:02:57:002 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:03:10:003 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:03:11:003 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.
+26:11:2016 20:03:11:003 [WARNING] <utilities.Utilities> Font musste nachgeladen werden: (Blackletter.ttf)
+26:11:2016 20:03:11:003 [INFO]    <client.ClientModel> Versuche Verbindung zu 127.0.0.1
+26:11:2016 20:03:13:003 [WARNING] <client.ClientModel> createSocket() Zur Zeit ist keine Verbindung möglich.

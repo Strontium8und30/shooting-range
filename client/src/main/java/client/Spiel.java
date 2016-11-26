@@ -11,8 +11,8 @@ public class Spiel {
 		
 		Log.setLogLevel(Log.LogLevel.INFO);
 		Log.setLogDirectory("./log/log.txt");
-//		ClientModel clientModel = new ClientModel();
-		ClientModel clientModel = new LocalClientModel();
+		ClientModel clientModel = new ClientModel();
+//		ClientModel clientModel = new LocalClientModel();
 		clientModel.createView();
 	}
 }

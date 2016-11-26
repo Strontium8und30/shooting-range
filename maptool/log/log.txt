@@ -1569,3 +1569,6 @@ java.text.SimpleDateFormat@7147a660ERROR <utilities.gl.TextureHelper> Eine Textu
 05:11:2016 00:22:42:022 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
 05:11:2016 00:23:27:023 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
 05:11:2016 00:23:27:023 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+26:11:2016 19:50:34:050 [ERROR]   <chapter.MapLoader> Ein Object hat keine Id!
+26:11:2016 19:50:35:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/complexObject.gif)
+26:11:2016 19:50:40:050 [WARNING] <utilities.Utilities> Icon musste nachgeladen werden: (icons/simpleObject.gif)

@@ -22,7 +22,8 @@ public class ResourceLoader {
 		File file = null; 
 		try {
 			file = new File(Thread.currentThread().getContextClassLoader().getResource(relPath).toURI());
-		} catch (URISyntaxException e) {
+		} catch (Exception e) {
+			log.error("File not found: " + relPath);
 			e.printStackTrace();
 		}
 		return file;

@@ -80,13 +80,13 @@ public class GameLoop extends GameThread {
 	public void keyboardInput() {
 		keyController.executeMovements();
 	}
-	
+	int z;
 	public void networkSync() {
-//		if (z < 3) {
-//			z++;
-//			return;
-//		}
-//		z=0;
+		if (z < 10) {
+			z++;
+			return;
+		}
+		z=0;
 		gameController.networkSync();
 	}
 	

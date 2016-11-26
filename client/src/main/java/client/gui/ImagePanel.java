@@ -4,13 +4,15 @@ import java.awt.*;
 
 import javax.swing.*;
 
+import utilities.resource.*;
+
 public class ImagePanel extends JPanel {
 
 	/** Das Hintergrundbild */
 	Image bgImage;
 	
 	public ImagePanel(String file/*, int width, int height*/) {
-		bgImage = Toolkit.getDefaultToolkit().getImage(file);
+		bgImage = Toolkit.getDefaultToolkit().getImage(ResourceLoader.getFile(file).getAbsolutePath());
 		setFocusable(true);
 		setOpaque(false);
 		setVisible(true);

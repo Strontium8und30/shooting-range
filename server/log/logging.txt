@@ -12860,3 +12860,1090 @@
 18:01:2016 23:22:33:022 [INFO]    <server.tcp.ServerModel> sendData() 0
 18:01:2016 23:22:33:022 [INFO]    <server.tcp.ServerModel> sendData() 0
 18:01:2016 23:22:33:022 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:15:26:015 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:21:54:021 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:22:54:022 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:22:58:022 [ERROR]   <utilities.resource.ResourceLoader> File not found: weapons/pistole.properties
+26:11:2016 19:23:36:023 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:23:38:023 [ERROR]   <server.tcp.ServerModel> Fehler beim erstellen des ServerSockets
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:43:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:46:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:47:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:48:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:49:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:50:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:51:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:52:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:53:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:23:54:023 [INFO]    <server.tcp.ServerModel> sendData() 0
+26:11:2016 19:36:26:036 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:36:30:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:30:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:30:036 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:36:31:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:31:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:31:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:31:036 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:36:31:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:31:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:32:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:32:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:32:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:32:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:32:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:32:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:32:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:33:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:34:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:36:35:036 [INFO]    <server.tcp.ServerModel> send data with size 0
+26:11:2016 19:38:09:038 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:38:11:038 [INFO]    <server.tcp.ServerModel> send data with size 1
+26:11:2016 19:38:11:038 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:38:11:038 [INFO]    <server.tcp.ServerModel> send data with size 2
+26:11:2016 19:38:11:038 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:38:11:038 [INFO]    <server.tcp.ServerModel> send data with size Server: Thorben hat die Lobby betreten.
+26:11:2016 19:39:35:039 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:39:37:039 [INFO]    <server.tcp.ServerModel> send data with size 1
+26:11:2016 19:39:37:039 [INFO]    <server.tcp.ServerModel> send data with size 1
+26:11:2016 19:39:37:039 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:39:38:039 [INFO]    <server.tcp.ServerModel> send data with size 2
+26:11:2016 19:39:38:039 [INFO]    <server.tcp.ServerModel> send data with size 2
+26:11:2016 19:39:38:039 [INFO]    <server.tcp.ServerModel> send data with size 2
+26:11:2016 19:39:38:039 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:39:38:039 [INFO]    <server.tcp.ServerModel> send data with size Server: Hallo Thorben
+26:11:2016 19:39:38:039 [INFO]    <server.tcp.ServerModel> send data with size Server: Thorben hat die Lobby betreten.
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:39:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:40:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size null
+26:11:2016 19:39:41:039 [WARNING] <server.tcp.ServerModel> Ein Client (2  Thorben  Addr: /127.0.0.1  Port: 65471) ist nicht mehr erreichbar.
+26:11:2016 19:39:41:039 [INFO]    <server.tcp.ServerModel> send data with size Server: Thorben hat die Lobby verlassen.
+26:11:2016 19:39:41:039 [WARNING] <server.tcp.ServerModel> Ein Client (1  No Name  Addr: /127.0.0.1  Port: 65470) ist nicht mehr erreichbar.
+26:11:2016 19:39:55:039 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:39:59:039 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:40:00:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:00:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:00:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:00:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:00:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:00:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:01:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:02:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:02:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:40:02:040 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:13:041 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:41:16:041 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:18:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:41:19:041 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:33:043 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:43:36:043 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:43:38:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:38:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:39:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:39:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:39:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:39:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:40:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:40:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:41:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:41:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:41:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:41:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:42:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:42:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:43:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:43:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:43:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:43:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:44:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:44:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:45:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:45:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:45:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:45:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:46:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:46:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:47:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:47:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:47:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:47:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:48:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:48:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:49:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:49:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:49:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:49:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:50:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:50:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:51:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:51:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:51:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:51:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:52:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:52:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:53:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:53:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:54:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:54:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:54:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:54:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:55:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:55:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:56:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:56:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:56:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:56:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:57:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:57:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:58:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:58:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:58:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:58:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:43:59:043 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:43:59:043 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:00:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:00:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:00:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:00:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:01:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:01:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:02:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:02:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:02:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:02:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:03:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:03:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:15:044 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:44:18:044 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:20:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:21:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:22:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:23:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:24:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:25:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:25:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:25:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:25:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:25:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:25:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:26:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:26:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:26:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:26:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:26:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:26:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:27:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:28:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:29:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:30:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:31:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:31:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:31:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:31:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:32:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:32:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:33:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:33:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:33:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:33:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:33:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:33:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:34:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:35:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:36:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:37:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:38:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:39:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:39:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:44:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:44:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:44:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:44:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:44:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:44:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:45:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:46:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:47:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> send data with size WEAPON_CHANGE
+26:11:2016 19:44:48:044 [WARNING] <server.tcp.ServerModel> Ein Client (1  No Name  Addr: /127.0.0.1  Port: 65510) ist nicht mehr erreichbar.
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:48:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:49:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:50:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:51:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:52:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:53:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:54:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:55:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:56:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:56:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:57:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:57:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:57:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:58:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:58:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:58:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:44:59:044 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:44:59:044 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:50:51:050 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:50:56:050 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:50:56:050 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:50:56:050 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:50:56:050 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:50:57:050 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:50:57:050 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:50:57:050 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:50:57:050 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:50:57:050 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:50:58:050 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:50:58:050 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:50:59:050 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:51:00:051 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:51:00:051 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:51:00:051 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:51:00:051 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:51:00:051 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:51:00:051 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:36:056 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ServerModel> send data with size ID
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:56:39:056 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:56:42:056 [ERROR]   <server.tcp.ServerModel> Kein entsprechender Datentyp beim empfangen (Server)
+26:11:2016 19:56:47:056 [ERROR]   <server.tcp.ServerModel> Kein entsprechender Datentyp beim empfangen (Server)
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:54:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:55:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:56:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:57:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:58:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> send data with size WEAPON_CHANGE
+26:11:2016 19:56:59:056 [WARNING] <server.tcp.ServerModel> Ein Client (1  No Name  Addr: /127.0.0.1  Port: 49209) ist nicht mehr erreichbar.
+26:11:2016 19:56:59:056 [INFO]    <server.tcp.ServerModel> send data with size MESSAGE
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:00:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:01:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:02:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:03:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:04:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:05:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:06:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:07:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:08:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:09:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:10:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:10:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+26:11:2016 19:57:10:057 [INFO]    <server.tcp.ServerModel> Server receive Data
+26:11:2016 19:57:10:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION

@@ -99,6 +99,7 @@ public class ServerModel extends NetModel {
 			} else if (DataType.CONNECTION_CLOSE.equals(type)) {
 				removeClient(client);
 			} else if (DataType.SEND_DATA.equals(type)) {
+				log.info("Server receive Data");
 				sendData(client, DataType.POSITION, null);
 			} else {
 				log.error("Kein entsprechender Datentyp beim empfangen (Server)");
@@ -112,8 +113,7 @@ public class ServerModel extends NetModel {
 	public synchronized void sendData(Client client, DataType dataType, Object data) {
 		try {
 			DataOutputStream out = new DataOutputStream(client.getOutputStream());
-			log.info("sendData() " + out.size());
-			
+			log.info("send data with size " + dataType);
 			if (DataType.CLIENT_ADD.equals(dataType) || DataType.ID.equals(dataType)) {
 				out.writeInt(dataType.getTypeID());
 				out.writeInt((Integer)data);
