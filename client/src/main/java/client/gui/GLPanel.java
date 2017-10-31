@@ -42,23 +42,11 @@ public class GLPanel implements GLEventListener {
 		canvas = new GLCanvas();
 		camera = gameController.getPlayer().getCamera();
 		
+		MouseControl mouseControl = new MouseControl(gameController);
+		canvas.addMouseMotionListener(mouseControl);
+		canvas.addMouseListener(mouseControl);
+		canvas.addKeyListener(gameController.getKeyController());	
 		canvas.addGLEventListener(this);
-		canvas.addMouseMotionListener(MouseControl.getInstance(gameController));
-		canvas.addMouseListener(MouseControl.getInstance(gameController));
-		canvas.addKeyListener(gameController.getKeyController());
-		
-		canvas.addFocusListener(new FocusListener() {
-			@Override
-			public void focusGained(FocusEvent e) {
-				GLPanel.this.gameController.maxi();
-			}
-
-			@Override
-			public void focusLost(FocusEvent e) {
-				GLPanel.this.gameController.mini();
-			}			
-		});
-		gameController.startAllThreads();		
 	}	
 
 	@Override

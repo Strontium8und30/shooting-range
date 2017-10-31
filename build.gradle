@@ -5,6 +5,9 @@ allprojects {
 subprojects {
     apply plugin: 'java'
     
+    targetCompatibility = '1.8'
+    sourceCompatibility = '1.8'
+    
     repositories {
 	    mavenCentral()
 
@@ -12,7 +15,7 @@ subprojects {
 	        dirs "$rootProject.projectDir/lib/"
 	   	}
 	}
-    
+	    
 	dependencies {
 		compile name: 'jogl'
 		compile name: 'gluegen-rt'

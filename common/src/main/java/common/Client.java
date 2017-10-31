@@ -13,10 +13,10 @@ public class Client {
 	private Socket socket;
 	
 	/** OutputStream */
-	private OutputStream outputStream;
+	private DataOutputStream outputStream;
 	
 	/** InputStream */
-	private InputStream inputStream;
+	private DataInputStream inputStream;
 	
 	/** Die eindeutige ID des Clients */
 	private int id;
@@ -44,11 +44,11 @@ public class Client {
 	public Client(Socket socket, int id) {		
 		try {
 			this.socket = socket;
-			this.outputStream = socket.getOutputStream();
-			this.inputStream = socket.getInputStream();
+			this.outputStream = new DataOutputStream(new BufferedOutputStream(socket.getOutputStream()));
+			this.inputStream = new DataInputStream(new BufferedInputStream(socket.getInputStream()));
 			this.id = id;
 		} catch (IOException e) {
-//			log.
+			System.out.println("Fehler " + e);
 		}
 	}
 
@@ -60,20 +60,12 @@ public class Client {
 		this.socket = socket;
 	}
 
-	public OutputStream getOutputStream() {
+	public DataOutputStream getOutputStream() {
 		return outputStream;
 	}
 
-	public void setOutputStream(OutputStream outputStream) {
-		this.outputStream = outputStream;
-	}
-
-	public InputStream getInputStream() {
+	public DataInputStream getInputStream() {
 		return inputStream;
-	}
-
-	public void setInputStream(InputStream inputStream) {
-		this.inputStream = inputStream;
 	}
 
 	public int getID() {

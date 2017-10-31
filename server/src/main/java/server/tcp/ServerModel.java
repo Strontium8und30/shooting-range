@@ -1,16 +1,17 @@
 package server.tcp;
 
-import java.io.*;
-import java.net.*;
-import java.util.*;
+import java.io.DataOutputStream;
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.util.ArrayList;
+import java.util.List;
 
-import utilities.log.*;
-import utilities.mvc.*;
-
-import common.*;
-
-import framework.types.*;
-import framework.weapons.*;
+import common.Client;
+import common.DataType;
+import common.NetModel;
+import utilities.log.Log;
+import utilities.log.LogFactory;
+import utilities.mvc.View;
 
 public class ServerModel extends NetModel {
 
@@ -19,7 +20,7 @@ public class ServerModel extends NetModel {
 	
 	/** Der ServerSocket */
 	private ServerSocket serverSocket;
-	
+		
 	/** Nächste gültige Client Id */
 	private int nextValidClientId;
 	
@@ -33,9 +34,8 @@ public class ServerModel extends NetModel {
 	
 	public void createServerSoket(int port) {
 		try {
-			serverSocket = new ServerSocket(port);
+			serverSocket = new ServerSocket(port);			
 			new ClientConnector(this);
-			new DataReceiver(this);
 		} catch (IOException e) {
 			log.error("Fehler beim erstellen des ServerSockets", e);
 		}
@@ -51,17 +51,24 @@ public class ServerModel extends NetModel {
 
 	public synchronized void addClient(Client client) {
 		clients.add(client);
+		new ClientDataReceiver(this, client);
 		sendData(client, DataType.ID, client.getID());
-//		for (Client c : clients) {
-////			if (c.equals(client)) continue;
-//			sendData(client, DataType.CLIENT_ADD, c.getID());
-//		}
+		
+		for (Client c : clients) {
+			sendData(client, DataType.CLIENT_ADD, c.getID());
+		}
+		
 		sendToAll(DataType.CLIENT_ADD, client.getID());
 		notifyViews(CLIENT_ADD, client);
+		sendToAll(DataType.MESSAGE, "Server: " + client.getName() + " hat die Lobby betreten.");
 	}
 	
-	public synchronized void removeClient(Client client) throws IOException {
-		client.getSocket().close();
+	public synchronized void removeClient(Client client) {
+		try {
+			client.getSocket().close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		clients.remove(client);
 		notifyViews(CLIENT_REMOVE, client);
 		sendToAll(client, DataType.MESSAGE, "Server: " + client.getName() + " hat die Lobby verlassen.");
@@ -75,51 +82,15 @@ public class ServerModel extends NetModel {
 		return clients;
 	}
 	
-	public synchronized void receiveData(Client client) {
-		try {
-			DataInputStream in = new DataInputStream(client.getInputStream());
-			DataType type = DataType.getTypeByID(in.readInt());			
-			if (DataType.NAME.equals(type)) {
-				client.setName(in.readLine());
-				sendData(client, DataType.MESSAGE, "Server: Hallo " + client.getName());
-				sendToAll(client, DataType.MESSAGE, "Server: " + client.getName() + " hat die Lobby betreten.");
-			} else if (DataType.POSITION.equals(type)) {
-				Vector3D position = new Vector3D();
-				position.setX(in.readFloat());
-				position.setY(in.readFloat());
-				position.setZ(in.readFloat());
-				client.setPosition(position);				
-				client.setAngleHorizontal(in.readFloat());
-				client.setAngleVertical(in.readFloat());
-			} else if (DataType.PLAYER_SHOOT.equals(type)) {
-				sendToAll(client, DataType.PLAYER_SHOOT, client.getID());
-			} else if (DataType.WEAPON_CHANGE.equals(type)) {
-				client.setWeapon(Weapon.getById(in.readInt()));
-				sendToAll(DataType.WEAPON_CHANGE, client);
-			} else if (DataType.CONNECTION_CLOSE.equals(type)) {
-				removeClient(client);
-			} else if (DataType.SEND_DATA.equals(type)) {
-				log.info("Server receive Data");
-				sendData(client, DataType.POSITION, null);
-			} else {
-				log.error("Kein entsprechender Datentyp beim empfangen (Server)");
-			}
-			notifyViews(CLIENT_CHANGE, client);
-		} catch (IOException e) {
-			log.error("Fehler beim lesen der Daten", e);
-		}
-	}
-	
 	public synchronized void sendData(Client client, DataType dataType, Object data) {
 		try {
-			DataOutputStream out = new DataOutputStream(client.getOutputStream());
-			log.info("send data with size " + dataType);
+			DataOutputStream out = client.getOutputStream();			
 			if (DataType.CLIENT_ADD.equals(dataType) || DataType.ID.equals(dataType)) {
 				out.writeInt(dataType.getTypeID());
 				out.writeInt((Integer)data);
 			} else if (DataType.POSITION.equals(dataType)) {
 				for (Client c : clients) {
-//					if (c.getID() == client.getID()) continue;
+					if (c.getID() == client.getID()) continue;
 					out.writeInt(dataType.getTypeID());
 					out.writeInt(c.getID());
 					out.writeFloat(c.getPosition().getX());
@@ -141,13 +112,10 @@ public class ServerModel extends NetModel {
 			} else {
 				log.error("Kein entsprechender Datentyp beim senden (Server)");
 			}
+			out.flush();
 		} catch (IOException e) {
 			log.warning("Ein Client (" + client + ") ist nicht mehr erreichbar.");
-			try {
-				removeClient(client);
-			} catch (IOException e1) {
-				log.error("Fehler beim schließen des Sockets.", e1);
-			}
+			removeClient(client);
 		}
 	}
 	

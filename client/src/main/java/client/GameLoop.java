@@ -43,7 +43,6 @@ public class GameLoop extends GameThread {
 		this.player = gameController.getPlayer();
 		this.glPanel = gameController.getGLPanelInstance();
 		this.keyController = gameController.getKeyController();
-		gameController.registerThread(getName(), this);
 	}
 	
 	@Override
@@ -80,13 +79,8 @@ public class GameLoop extends GameThread {
 	public void keyboardInput() {
 		keyController.executeMovements();
 	}
-	int z;
-	public void networkSync() {
-		if (z < 10) {
-			z++;
-			return;
-		}
-		z=0;
+	
+	public void networkSync() {		
 		gameController.networkSync();
 	}
 	

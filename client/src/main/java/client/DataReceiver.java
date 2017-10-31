@@ -16,10 +16,7 @@ public class DataReceiver extends Thread {
 	public void run() {
 		try {
 			while(!clientModel.getSocket().isClosed() && running) {
-				if (clientModel.getSocket().getInputStream().available() != 0) {
-					clientModel.receiveData();
-				}
-				Thread.sleep(10);
+				clientModel.receiveData();
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

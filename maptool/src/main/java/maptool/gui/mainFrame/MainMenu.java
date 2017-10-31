@@ -259,8 +259,7 @@ public class MainMenu extends JMenuBar {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				getModel().exportMap(new File("tmpmap.xml"));
-				GameFrame gameFrame = new GameFrame(new LocalClientModel(), new File("./maps/tmpmap.xml"));
-				gameFrame.setVisible(true);
+				new GameFrame(new LocalClientModel(), new File("./maps/tmpmap.xml"));
 			}				
 		});
 		map.add(exportAndTestMap);
@@ -269,8 +268,7 @@ public class MainMenu extends JMenuBar {
 		testMap.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				GameFrame gameFrame = new GameFrame(new LocalClientModel(), new File("./maps/tmpmap.xml"));
-				gameFrame.setVisible(true);
+				new GameFrame(new LocalClientModel(), new File("./maps/tmpmap.xml"));
 			}				
 		});
 		map.add(testMap);

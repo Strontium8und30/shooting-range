@@ -23,6 +23,10 @@ public class ClientModel extends NetModel {
 	
 	private DataReceiver dataReceiver;
 	
+	private DataInputStream in;
+	
+	private DataOutputStream out;
+	
 	/** Socket */
 	private Socket socket;
 	
@@ -46,6 +50,8 @@ public class ClientModel extends NetModel {
 		try {
 			log.info("Versuche Verbindung zu " + address);
 			socket = new Socket(address, port);
+			in = new DataInputStream(socket.getInputStream());
+			out = new DataOutputStream(new BufferedOutputStream(socket.getOutputStream()));
 			dataReceiver = new DataReceiver(this);
 		} catch (Exception e) {
 			log.warning("createSocket() Zur Zeit ist keine Verbindung möglich.");
@@ -77,16 +83,19 @@ public class ClientModel extends NetModel {
 	public void stopNetworkLoop() {
 		dataReceiver.stopNetworkLoop();
 	}
-	
-	public synchronized void receiveData() throws IOException {
-		DataInputStream in = new DataInputStream(socket.getInputStream());
+		
+	public void receiveData() throws IOException {
 		DataType type = DataType.getTypeByID(in.readInt());
-			
+		
 		if (DataType.ID.equals(type)) {
 			clientId = in.readInt();
 			notifyViews(RECEIVE_MESSAGE, "Neue ID erhalten: " + clientId);
-		} else if (DataType.POSITION.equals(type)) {
+		} else if (DataType.POSITION.equals(type)) {			
 			Client client = clients.get(in.readInt());
+			if (client == null) {
+				log.warning("Client noch nicht bekannt!");
+				return;
+			}
 			Vector3D position = new Vector3D();
 			position.setX(in.readFloat());
 			position.setY(in.readFloat());
@@ -114,10 +123,9 @@ public class ClientModel extends NetModel {
 		}
 	}
 	
-	public synchronized void sendData(DataType dataType, Object data) {
-		if (socket == null) return;
-		try {
-			DataOutputStream out = new DataOutputStream(socket.getOutputStream());
+	public void sendData(DataType dataType, Object data) {
+		if (socket == null || socket.isClosed()) return;
+		try {			
 			if (DataType.POSITION.equals(dataType) && clients.get(clientId) != null) {
 				if (clients.get(clientId).equals((PlayerImpl)data)) {
 					return;
@@ -142,6 +150,7 @@ public class ClientModel extends NetModel {
 			} else {
 				log.error("Kein entsprechender Datentyp beim senden (Client)" + dataType.getTypeID());
 			}
+			out.flush();
 		} catch (IOException e) {
 			log.error("Der Server ist nicht mehr erreichbar.", e);
 			closeSockte();
@@ -163,10 +172,6 @@ public class ClientModel extends NetModel {
 
 	@Override
 	public View createView() {
-		return new MainFrame(this);
-	}
-
-	public boolean isDataAvailable() throws IOException {
-		return !getSocket().isClosed() && getSocket().getInputStream().available() != 0;
+		return new MainMenuFrame(this);
 	}
 }

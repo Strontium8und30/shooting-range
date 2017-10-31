@@ -51,10 +51,5 @@ public class LocalClientModel extends ClientModel {
 
 	public void setClients(Map<Integer, NetClient> clients) {
 		throw new UnsupportedOperationException();
-	}
-	
-	@Override
-	public boolean isDataAvailable() throws IOException {
-		return false;
-	}
+	}	
 }

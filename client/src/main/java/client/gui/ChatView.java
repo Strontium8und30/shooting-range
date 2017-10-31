@@ -13,7 +13,7 @@ import common.*;
 
 public class ChatView extends DefaultView {
 
-	TransPanel panel;
+	JPanel panel;
 
 	TransPanel panelMessage;
 	
@@ -29,7 +29,8 @@ public class ChatView extends DefaultView {
 			}
 		};
 		
-		panel = new TransPanel(TransPanel.TRANSPARENT);
+		panel = new JPanel();
+		panel.setBackground(new Color(0.0f, 0.0f, 0.0f, 0.4f));
 		panel.setLayout(new MigLayout("insets 0 0 0 0", "[grow, fill][]", "[grow, fill]10[][]"));
 
 		panelMessage = new TransPanel();

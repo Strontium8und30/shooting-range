@@ -13947,3 +13947,1236 @@
 26:11:2016 19:57:10:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
 26:11:2016 19:57:10:057 [INFO]    <server.tcp.ServerModel> Server receive Data
 26:11:2016 19:57:10:057 [INFO]    <server.tcp.ServerModel> send data with size POSITION
+13:10:2017 16:18:06:018 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 16:18:08:018 [INFO]    <server.tcp.ServerModel> send data with size ID1
+13:10:2017 16:18:08:018 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD1
+13:10:2017 16:18:08:018 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:18:08:018 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:18:45:018 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:18:48:018 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 16:18:50:018 [INFO]    <server.tcp.ServerModel> send data with size ID1
+13:10:2017 16:18:50:018 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD1
+13:10:2017 16:18:50:018 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:18:50:018 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:19:28:019 [INFO]    <server.tcp.ServerModel> send data with size ID2
+13:10:2017 16:19:28:019 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD2
+13:10:2017 16:19:28:019 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD2
+13:10:2017 16:19:28:019 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:19:28:019 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:19:28:019 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:20:00:020 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:20:00:020 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby verlassen.
+13:10:2017 16:21:41:021 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 16:21:43:021 [INFO]    <server.tcp.ServerModel> send data with size ID1
+13:10:2017 16:21:43:021 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD1
+13:10:2017 16:21:43:021 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:21:43:021 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:22:35:022 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:33:25:033 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 16:33:27:033 [INFO]    <server.tcp.ServerModel> send data with size ID1
+13:10:2017 16:33:27:033 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD1
+13:10:2017 16:33:27:033 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:33:27:033 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:33:29:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:29:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:29:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:29:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:29:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:29:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:30:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:31:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:33:32:033 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:33:33:033 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:34:10:034 [INFO]    <server.tcp.ServerModel> send data with size ID2
+13:10:2017 16:34:10:034 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD2
+13:10:2017 16:34:10:034 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:34:10:034 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:34:12:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:12:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:12:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:12:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:13:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:14:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:15:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:16:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:16:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:16:034 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:34:16:034 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:34:16:034 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:53:55:053 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 16:54:03:054 [INFO]    <server.tcp.ServerModel> send data with size ID1
+13:10:2017 16:54:03:054 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD1
+13:10:2017 16:54:03:054 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:54:03:054 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:54:05:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:05:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:06:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:07:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:08:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:09:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:10:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:11:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:12:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:13:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:14:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:15:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:16:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:17:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size ID2
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD2
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD2
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:18:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:19:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:20:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:21:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:22:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:23:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:24:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:25:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:26:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:27:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:28:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:29:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:30:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:31:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:32:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:33:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:34:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby verlassen.
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:35:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:36:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:37:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:38:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:39:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:40:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:40:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:40:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:40:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:40:054 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:54:40:054 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:54:41:054 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:55:23:055 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 16:55:27:055 [INFO]    <server.tcp.ServerModel> send data with size ID1
+13:10:2017 16:55:27:055 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD1
+13:10:2017 16:55:27:055 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:55:27:055 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:55:29:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:29:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:29:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:29:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:29:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:29:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:30:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:31:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:32:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:33:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:34:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:35:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:36:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:37:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:38:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size ID2
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD2
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD2
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:39:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:40:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:41:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:42:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:43:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:44:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:45:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:46:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:47:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:48:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:49:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size WEAPON_CHANGE2  No Name  Addr: /127.0.0.1  Port: 55659
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size WEAPON_CHANGE2  No Name  Addr: /127.0.0.1  Port: 55659
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size PLAYER_SHOOT2
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:50:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:51:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size PLAYER_SHOOT2
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:52:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:53:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:54:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:55:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:56:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size PLAYER_SHOOT2
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:57:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:58:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:55:59:055 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:00:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:01:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:02:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:03:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:04:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:05:056 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby verlassen.
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:05:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:06:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:07:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:07:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:56:07:056 [INFO]    <server.tcp.ClientDataReceiver> Server receive Data
+13:10:2017 16:56:07:056 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:49:059 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 16:59:53:059 [INFO]    <server.tcp.ServerModel> send data with size ID1
+13:10:2017 16:59:53:059 [INFO]    <server.tcp.ServerModel> send data with size CLIENT_ADD1
+13:10:2017 16:59:53:059 [INFO]    <server.tcp.ServerModel> send data with size MESSAGEServer: No Name hat die Lobby betreten.
+13:10:2017 16:59:53:059 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 16:59:55:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:55:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:55:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:55:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:56:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:56:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:56:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:56:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:57:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:57:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:57:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:57:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:57:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:58:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:58:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:58:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:58:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:59:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:59:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:59:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:59:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 16:59:59:059 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:00:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:00:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:00:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:00:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:00:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:01:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:01:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:01:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:01:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:02:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:02:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:02:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:02:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:02:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:03:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:03:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:03:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:03:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:04:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:04:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:04:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:04:000 [INFO]    <server.tcp.ServerModel> send data with size POSITIONnull
+13:10:2017 17:00:20:000 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:00:24:000 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:00:38:000 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:01:15:001 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:01:18:001 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:01:34:001 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:02:22:002 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:04:57:004 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:05:01:005 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:05:08:005 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:05:17:005 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:09:00:009 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:09:06:009 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:09:14:009 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:10:30:010 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:10:37:010 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:10:41:010 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:10:49:010 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:11:10:011 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:11:11:011 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:11:45:011 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:11:52:011 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:11:59:011 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:14:51:014 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:14:53:014 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:15:35:015 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:15:39:015 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:15:43:015 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:16:18:016 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:16:20:016 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:16:21:016 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:16:27:016 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:16:29:016 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:17:00:017 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:18:06:018 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:18:08:018 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:18:47:018 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+13:10:2017 17:18:51:018 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:18:59:018 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+13:10:2017 17:19:33:019 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+13:10:2017 17:19:38:019 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten
+31:10:2017 10:51:04:051 [DEBUG]   <server.tcp.ClientConnector> Warte auf neue Clients...
+31:10:2017 10:51:09:051 [INFO]    <server.tcp.ClientConnector> Ein neuer Client wurde aufgenommen
+31:10:2017 10:51:17:051 [ERROR]   <server.tcp.ClientDataReceiver> Fehler beim lesen der Daten

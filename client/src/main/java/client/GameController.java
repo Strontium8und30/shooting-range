@@ -1,24 +1,17 @@
 package client;
 
-import java.awt.*;
 import java.io.*;
-import java.util.*;
 
-import javax.swing.*;
-
-import utilities.control.*;
-import utilities.log.*;
 import chapter.*;
 import client.chapter.MapLoader;
 import client.control.*;
 import client.gui.*;
 import client.player.*;
-
 import common.*;
-
 import framework.legacy.*;
 import framework.object.interactive.*;
 import framework.types.*;
+import utilities.log.*;
 
 public class GameController {
 
@@ -29,7 +22,7 @@ public class GameController {
 	private ClientModel clientModel = null;
 	
 	/** Der Spielframe */
-	private JFrame gameFrame = null;
+	private WindowView gameView = null;
 	
 	/** Der Spieler */
 	private PlayerImpl player = null;
@@ -46,16 +39,13 @@ public class GameController {
 	/** Spielschleife */
 	private GameLoop gameLoop = null; 
 	
-	/** Alle registrierten GameThreads */
-	private Map<String, GameThread> gameThreads = new HashMap<String, GameThread>();
-
 	/** läuft das Spiel */
 	private boolean isRunning = true;
 	
 
-	public GameController(ClientModel clientModel, JFrame frame, File mapFile) {
+	public GameController(ClientModel clientModel, WindowView gameView, File mapFile) {
 		this.clientModel = clientModel;
-		this.gameFrame = frame;		
+		this.gameView = gameView;		
 		this.chapter = new MapLoader().loadMap(mapFile);
 		
 		this.player = new PlayerImpl(this, loadPlayerModel(Const.PLAYER_MODEL), Const.PLAYER_STARTPOS);
@@ -64,10 +54,15 @@ public class GameController {
 		this.glPanel = new GLPanel(this);
 		this.gameLoop = new GameLoop(this);
 		ShootController.initalize(this);
+		this.gameLoop.start();
 	}
 	
 	public ClientModel getClientModel() {
 		return clientModel;
+	}
+	
+	public WindowView getGameView() {
+		return gameView;
 	}
 
 	public void setClientModel(ClientModel clientModel) {
@@ -120,99 +115,15 @@ public class GameController {
 	}
 	
 	public void networkSync() {
-		try {
-			clientModel.sendData(DataType.SEND_DATA, null);
-			if (clientModel.isDataAvailable()) {
-				clientModel.receiveData();
-			}
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+		clientModel.sendData(DataType.SEND_DATA, null);		
 	}
-	
-	public void registerThread(String name, GameThread thread) {
-		if (gameThreads.containsKey(name)) {
-			if (gameThreads.containsValue(thread)) {
-				log.debug("Thread ist bereits registriert.");
-			}
-			log.debug("Name ist nicht eindeutig.");
-		}
-		gameThreads.put(name, thread);
-	}
-	
-	public void deregisterThread(String name) {
-		gameThreads.remove(name);
-	}
-	
-	public void startAllThreads() {
-		for (GameThread thread : gameThreads.values()) {
-			if (!thread.isAlive()) {
-				thread.start();
-			}
-		}
-	}
-	
-	public void stopAllThreads() {
-		for (GameThread thread : gameThreads.values()) {
-			thread.quit();
-		}
-	}
-	
-	public void pauseAllThreads() {
-		for (GameThread thread : gameThreads.values()) {
-			thread.pause();
-		}
-	}
-	
-	public void proceedAllThreads() {
-		for (GameThread thread : gameThreads.values()) {
-			thread.proceed();
-		}
-	}
-	
-	public void pauseThread(String name) {
-		gameThreads.get(name).pause();
-	}
-	
-	public void proceedThread(String name) {
-		gameThreads.get(name).proceed();
-	}
-	
-	public void pause() {
-		while(!isRunning) {
-			try {
-				Thread.sleep(100);
-			} catch (InterruptedException e) {}
-		}
-		log.warning("Pause ende");
-	}
-	
-	public void mini() {
-		log.info("Lost Focus --> Threads pausieren");
-		gameFrame.setCursor(new Cursor(Cursor.DEFAULT_CURSOR));
-		pauseAllThreads();
-		gameFrame.setVisible(false);
-		gameFrame.dispose();
-		gameFrame.setUndecorated(false);
-		gameFrame.setResizable(true);
-		gameFrame.setVisible(true);
-	}
-	
-	public void maxi() {
-		log.info("Get Focus --> Threads wieder starten");
-//		gameFrame.setVisible(false);
-//		gameFrame.dispose();
-//		gameFrame.setUndecorated(true);
-//		gameFrame.setResizable(false);
-//		gameFrame.setVisible(true);
-		proceedAllThreads();
-		gameFrame.setCursor(Mouse.getInvisibleCursor());
+				
+	public boolean isRunning() {
+		return isRunning;
 	}
 	
 	public void quit() {
-		stopAllThreads();
-		gameFrame.setVisible(false);
-		gameFrame.dispose();
+		gameView.dispose();
 		System.exit(0);
 	}
 }

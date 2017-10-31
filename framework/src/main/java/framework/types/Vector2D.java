@@ -21,6 +21,10 @@ public class Vector2D {
 	public Vector2D(Dimension dim) {
 		this((float)dim.getWidth(), (float)dim.getHeight());
 	}
+	
+	public Vector2D(Point dim) {
+		this((float)dim.getX(), (float)dim.getY());
+	}
 		
 	public void setVector(float x, float y) {
 		this.x = x;
@@ -45,6 +49,12 @@ public class Vector2D {
 	
 	public void setY(float y) {
 		this.y = y;
+	}
+	
+	public Vector2D add(Vector2D vector) {
+		this.x += vector.getX();
+		this.y += vector.getY();
+		return this;
 	}
 	
 	public static Vector2D multiplyBy(Vector3D vector, float factor) {

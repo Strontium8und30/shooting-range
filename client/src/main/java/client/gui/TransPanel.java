@@ -23,10 +23,10 @@ public class TransPanel extends JPanel {
 	public TransPanel(int type) {
 		setLayout(new MigLayout());
 		if (type == TRANSPARENT) {
-			setBackground(new Color(0.0f, 0.0f, 0.0f, 0.0f));
+			setOpaque(false);
 			setBorder(null);
 		} else if (type == LOW_TRANSPARENT) {
-			setBackground(new Color(0.0f, 0.0f, 0.0f, 0.4f));
+			setOpaque(false);
 			setBorder(new LineBorder(Color.WHITE));
 		}
 	}

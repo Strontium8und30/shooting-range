@@ -7,7 +7,7 @@ import javax.swing.*;
 
 import utilities.*;
 
-public class TextButton extends JButton {
+public class TextButton extends JLabel {
 	
 	Fader fader;
 	
@@ -21,21 +21,16 @@ public class TextButton extends JButton {
 	
 	public TextButton(String text, float size, Action action) {
 		super(text);
-		setFocusPainted(false);
-		setBorderPainted(false);
 		setForeground(Color.WHITE);
-		setBackground(new Color(0.0f, 0.0f, 0.0f, 0.0f));
 		setFont(Utilities.getFont("Blackletter.ttf").deriveFont(size));
 		
-		if(action != null) addActionListener(action);
-		addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				repaint();
-			}			
-		});
-		
 		addMouseListener(new MouseAdapter() {
+			@Override
+			public void mouseReleased(MouseEvent e) {
+				action.actionPerformed(new ActionEvent(e.getSource(), e.getID(), "Action"));
+				repaint();
+			}
+			
 			@Override
 			public void mouseEntered(MouseEvent e) {
 				fader = new Fader();
@@ -70,10 +65,10 @@ public class TextButton extends JButton {
 				if (!runnig) add = add > 0 ? add : -add;
 				if (fade >= fadeMax) add = add < 0 ? add : -add;
 				if (fade <= fadeMin) add = add > 0 ? add : -add;
-				setForeground(new Color(fade, fade, fade));
+				SwingUtilities.invokeLater(() -> setForeground(new Color(fade, fade, fade)));
 				fade += add;
 			}
-			setForeground(Color.WHITE);
+			SwingUtilities.invokeLater(() -> setForeground(Color.WHITE));
 		}
 		
 		public void exit() {

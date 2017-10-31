@@ -1,16 +1,16 @@
 package client.gui;
 
+import java.awt.*;
 import java.io.*;
 
 import javax.swing.*;
 
-import utilities.*;
+import client.*;
 import utilities.control.*;
 import utilities.log.*;
 import utilities.resource.*;
-import client.*;
 
-public class GameFrame extends JFrame {
+public class GameFrame extends WindowView {
 		
 	/** Logging */
 	public Log log = LogFactory.getLog(GameFrame.class);
@@ -19,24 +19,29 @@ public class GameFrame extends JFrame {
 	public GameController gameController = null;
 	
 	
-	public GameFrame(ClientModel clientModel) {
-		this(clientModel, ResourceLoader.getFile("./maps/NoNameMap.xml"));
+	public GameFrame(ClientModel clientModel, Point location) {
+		this(clientModel, ResourceLoader.getFile("./maps/NoNameMap.xml"), location);
 	}
 	
-	public GameFrame(ClientModel clientModel, File mapFile) {		
-		setTitle("Spiel");
-		setUndecorated(true);
-		setResizable(false);
-		setSize(getToolkit().getScreenSize());
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
+	public GameFrame(ClientModel clientModel, File mapFile) {
+		this(clientModel, mapFile, new Point(0,0));
+	}
+	
+	public GameFrame(ClientModel clientModel, File mapFile, Point location) {
+		super(clientModel, location);
+				
+		setFullscreen();
+		
+		frame.setCursor(Mouse.getInvisibleCursor());
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
 		gameController = new GameController(clientModel, this, mapFile);
+		
+		frame.getContentPane().add(gameController.getGLPanelInstance().getGLCanvas());
+	}
 
-		setCursor(Mouse.getInvisibleCursor());	
-		Mouse.setPosition(Utilities.getScreenCenter());
-		
-		getContentPane().add(gameController.getGLPanelInstance().getGLCanvas());
-		
-		gameController.startAllThreads();		
+	@Override
+	public Component getComponent() {
+		return frame;
 	}
 }
